@@ -1,7 +1,7 @@
 ---
 title: "Distributed Systems: Introduction"
 date: 2020-02-01
-category: [distributed systems]
+category: Distributed Systems
 header:
   image: "/images/distributed.png"
 excerpt: "Distributed systems"
