@@ -272,6 +272,10 @@ tag_archive:
 #     tag: /tags/:name/
 
 
+collections:
+  categories:
+    output: true
+
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:

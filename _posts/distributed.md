@@ -1,25 +1,13 @@
 ---
 layout: post
 title: Distributed Systems: Introduction
-categories: Distributed Systems
+categories: Distributed
 date: 2020-02-01
 header:
   image: "/images/distributed.png"
-mathjax: "true"
 ---
 
 
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
 
 # H1 Heading
 
