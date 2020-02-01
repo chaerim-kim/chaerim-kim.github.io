@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Distributed Systems: Introduction"
+date: 2020-02-01
+tags: [distributed systems, distributed goals]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/distributed.png"
+excerpt: "Distributed systems"
 mathjax: "true"
 ---
 
@@ -41,12 +41,6 @@ Python code block:
       return z
 ```
 
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
 
 Here's some inline code `x+y`.
 
