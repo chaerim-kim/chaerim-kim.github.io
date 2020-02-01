@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Distributed Systems: Introduction"
-date: 2020-02-01
+title: Distributed Systems: Introduction
 categories: Distributed Systems
+date: 2020-02-01
 header:
   image: "/images/distributed.png"
-excerpt: "Distributed systems"
 mathjax: "true"
 ---
 
