@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: category
 permalink: /distributed-systems/
 title: "Distributed Systems Posts"
 author_profile: true

@@ -1,7 +1,7 @@
 ---
 title: "Distributed Systems: Introduction"
 date: 2020-02-01
-tags: [distributed systems, distributed goals]
+category: [distributed systems]
 header:
   image: "/images/distributed.png"
 excerpt: "Distributed systems"
