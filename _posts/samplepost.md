@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "Distributed Systems: Introduction"
 date: 2020-02-01
-category: Distributed Systems
+categories: Distributed Systems
 header:
   image: "/images/distributed.png"
 excerpt: "Distributed systems"
