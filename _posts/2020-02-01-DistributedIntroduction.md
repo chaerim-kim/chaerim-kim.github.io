@@ -1,5 +1,5 @@
 ---
-title: Distributed Systems: Introduction
+title: "Distributed Systems: Introduction"
 tags: [Distributed Systems]
 categories: [Distributed Systems]
 date: 2020-02-01
@@ -10,4 +10,4 @@ header:
 
 # Distributed systems
 
-This is an introductory page for distributed systems. 
+This is an introductory page for distributed systems.
