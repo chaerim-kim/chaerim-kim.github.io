@@ -1,7 +1,7 @@
 ---
 title: "Secure Computing: Introduction"
 tags: [Secure Computing]
-categories: [Secure Computing]
+categories: Secure
 date: 2020-02-01
 header:
   image: "/images/distributed.png"
