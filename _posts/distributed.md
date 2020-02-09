@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Distributed Systems: Introduction
-categories: Distributed
+tags: [Distributed Systems]
 date: 2020-02-01
 header:
   image: "/images/distributed.png"
 ---
-
 
 
 # H1 Heading

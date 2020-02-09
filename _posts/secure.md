@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Secure Computing: Introduction
-categories: Secure
+tags: [Secure Computing]
 date: 2020-02-01
 header:
   image: "/images/distributed.png"
 ---
-
 
 
 # H1 Heading
