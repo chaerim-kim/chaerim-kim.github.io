@@ -7,9 +7,9 @@ header:
 ---
 
 
-# H1 Heading
+# Hellooo
 
-## H2 Heading
+## This is my first post
 
 ### H3 Heading
 
@@ -21,4 +21,11 @@ Here's some **bold** text.
 
 What about a [link](https://github.com/dataoptimal)?
 
-Here's a bull
+
+
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
