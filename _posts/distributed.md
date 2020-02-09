@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Distributed Systems: Introduction
 tags: [Distributed Systems]
 date: 2020-02-01

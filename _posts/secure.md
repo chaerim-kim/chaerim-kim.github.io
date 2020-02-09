@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Secure Computing: Introduction
 tags: [Secure Computing]
 date: 2020-02-01
