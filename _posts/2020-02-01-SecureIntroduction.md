@@ -2,7 +2,7 @@
 title: "Secure Computing: Introduction"
 tags: [Secure Computing]
 categories:
-  - Secure
+  - Secure Computing
 date: 2020-02-01
 ---
 
