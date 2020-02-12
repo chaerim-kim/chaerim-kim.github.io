@@ -1,5 +1,5 @@
 ---
-title: "Secure Computing: Introduction"
+title: "Introduction"
 tags: [Secure Computing]
 categories:
   - Secure Computing
