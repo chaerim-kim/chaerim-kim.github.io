@@ -108,7 +108,7 @@ Q - what would you do to protect data on my pc?
         property__
     -   Depends on the value asset, target, how you use it daily, who
         has access to your data.
-    -   hence u can't easily measure it
+    -   hence you can't easily measure it
 
 **Human factor in security**
 
@@ -141,7 +141,7 @@ Q - what would you do to protect data on my pc?
     gone
 2.  Opportunistic hackers: no purpose, but skills required so more
     dangerous
-    a.  Botnet, is done thru opportunistic hacks
+    a.  Botnet, is done through opportunistic hacks
         i.  Botnet: number of internet connected devices, each of which
             is running one or more bots (from computers that lost its
             security permission). Used for DDoS attacks, spam, etc

@@ -18,14 +18,14 @@ date: 2020-02-01
     that as a user myself can see the connection of the system as a
     <span class="underline">one single system</span>. - one single
     coherent view
-  - **Autonomous computing elements**  then u think about nodes\! Nodes
-    could be hardware or software side of things  nodes need to talk
+  - **Autonomous computing elements** → then you think about nodes\! Nodes
+    could be hardware or software side of things → nodes need to talk
     and collaborate with each other\!
-  - Because u have number of nodes, each machine has its own block (time
-    wise) hard to have a global clock. Hence, those gotta synchronise 
+  - Because you have number of nodes, each machine has its own block (time
+    wise)→ hard to have a global clock. Hence, those gotta synchronise →
     concept of **TIME**\!\!
-  - Need to communicate w/ each other thru msgs  these msgs need to go
-    thru network\!
+  - Need to communicate w/ each other through msgs → these msgs need to go
+    through network\!
   - **the idea of network is important\!\!**
 
 |                                                                                                                    |
@@ -37,11 +37,11 @@ date: 2020-02-01
   - Single coherent system – nodes as a whole is dealing with one
     system. No matter where when and how the interaction takes place.
   - Examples
-      - You access mobile phone and u access a server, but u have no
+      - You access mobile phone and you access a server, but you have no
         idea with where the computation is taking place.
       - Q : Do we know where google services are stored?
-          - Nope we don’t\!  it should be irrelevant to an application.
-      - They replicate your data. 3 copies securely stored.  the fact
+          - Nope we don’t\! → it should be irrelevant to an application.
+      - They replicate your data. 3 copies securely stored. → the fact
         that data is replicated
   - Transparency is KEY\!
 
@@ -52,19 +52,19 @@ date: 2020-02-01
 **Examples of Dist. sys**
   - The internet/ intranets – cluster of computers connected
       - Doesn’t fulfil the <span class="underline">transparency</span> –
-        as it is easy to guess the IP. So u know exactly where and what
+        as it is easy to guess the IP. So you know exactly where and what
   - The world wide web – to have access to data, information and
     knowledge
   - A cellular mobile phone – interesting one\! We are travelling from
     Leeds to London in a train. My communication is handled
-    transparently thru the journey\!  is a true distributed system as
+    transparently through the journey\! → is a true distributed system as
     it fulfils the concept of
     **<span class="underline">transparency</span>**
 
   - Google Hamina – a data centre for google in Finland in a middle of
     nowhere by the seaside.
       - Such large data centre, so cooling system is needed.
-          - Google uses water from sea to cool the centre.  renewable
+          - Google uses water from sea to cool the centre. → renewable
             energy
       - Data needs to be stored somewhere. It is distributed over a
         number of machines so they gotta communicate, so latency is v
@@ -108,9 +108,9 @@ date: 2020-02-01
         dependency on a single party
 3.  Shared mail services (office 365) – again the fact that his email
     box is somewhere on the cloud. Yet he can send and receive email
-    from a local machine  transparency
+    from a local machine → transparency
 4.  Shared web hosting
-    1.  Content distribution network  NETFLIX\! They will ensure that
+    1.  Content distribution network → NETFLIX\! They will ensure that
         what we need to access is in the server. And it looks up the
         closet server (for low latency)
     2.  interesting is the fact that data is duplicated here and there
@@ -123,15 +123,15 @@ date: 2020-02-01
 
 <!-- end list -->
 
-  - We have machine, OS, middleware, kernel  and we need them to talk
+  - We have machine, OS, middleware, kernel → and we need them to talk
     to each other\!
   - So far we know network services as socket programming, TCP
       - Socket- <span class="underline">transparency is limited</span>.
           - I am a server and I’m writing in this socket – as my client
             will need to look at where exactly the server is. Also we
-            need to know the port no.  v limited transparency
+            need to know the port no. → v limited transparency
       - In this module, we gonna ensure that the transparency is
-        actually there  this is where **middleware** comes in\!
+        actually there → this is where **middleware** comes in\!
 
 |                                                                               |
 | ----------------------------------------------------------------------------- |
@@ -140,7 +140,7 @@ date: 2020-02-01
   - Q: What do we mean by transparency?
       - **Access** – if I look at computers in the network, some are in
         Windows, Linux, java, python. So how do they talk to each other?
-         hide differences in machine architecture\!
+        → hide differences in machine architecture\!
       - **Location** – interesting – if I access a service, I have no
         idea where its coming from.
       - **Migration**- possible for data/ service to move from one to
@@ -201,11 +201,11 @@ date: 2020-02-01
         machine
       - E.g. internet is designed to scale.
       - Poor scalability if cost of supporting n users is worse than
-        O(n)  info needs to be organized hierarchically\! O(logn)
-          - If the structure is in array, from 0-n, can u find exact x
-            element\!  will take v long
+        O(n) → info needs to be organized hierarchically\! O(logn)
+          - If the structure is in array, from 0-n, can you find exact x
+            element\! → will take v long
           - However if we use tree structure the computation time will
-            go down Hierarchical
+            go down→ Hierarchical
       - PG 18 – See the growth of number of domains and how it scaled\!
         More than 1 billion now
           - It rly shows that the internet is there to grow – but we do
@@ -223,12 +223,12 @@ date: 2020-02-01
   - \!\! Administration – number of administrative domains
       - Can still be easily managed even if it spans many independent
         administrative organizations.
-      - Leeds Sheffield and York bringing together the resources  3
-        admins can have conflicting system with diff security policies 
+      - Leeds Sheffield and York bringing together the resources → 3
+        admins can have conflicting system with diff security policies →
         this will impact how we use the dist sys. But keep in mind that
         this could be problematic
 
-  -  concept of geographic and admin is v imp\!
+  - → concept of geographic and admin is v imp\!
 
 **Scaling Techniques -** 1. Hiding communication latencies
 
@@ -237,16 +237,16 @@ date: 2020-02-01
     server process the form.
   - Second eg says what if the client itself checks the form? If its
     correct THEN send
-  -  Diff when it comes to network resources and how its implemented.
+  - → Diff when it comes to network resources and how its implemented.
     It how we DESIGN the dis sys
 
 **Scaling techniques – 2. DNS**
 
   - The name table for internet was a single master file – centralized
     approach so it didn’t scale well. And we have 1 billion machines\!\!
-     gotta think how we gonna structure\!
+    → gotta think how we gonna structure\!
   - Soooo the DNS is a table that is distributed, and is administered
-    locally.  hierarchical nature.
+    locally. → hierarchical nature.
       - If we have 1 bil, but 2 bil – it still works. Because of its
         hierarchical nature
   - E.g. DNS structure – \[2 pdf 22\]
@@ -256,7 +256,7 @@ date: 2020-02-01
           - We first look for nl – z1
           - When we get to nl, we wanna look up where ams uni is? - z2
           - And then we found the uni, and access server for cs – z3
-          -  hierarchical, and it takes short time
+          - → hierarchical, and it takes short time
       - Q; how often is DNS gonna change? Which zone has info that
         barely changes.
           - Zone 1 doesn’t change often – unlikely ull have a new
@@ -276,15 +276,15 @@ date: 2020-02-01
 
   - Drawbacks
 
-      - Multiple copies could be inconsistent. U gotta change and update
+      - Multiple copies could be inconsistent. you gotta change and update
         ALL copies
       - To keep the copies consistent, u’ll need ur servers to
-        communicate w each other  u require global synchronization
-        after each modification.  VERY imp
+        communicate w each other → you require global synchronization
+        after each modification. → VERY imp
       - Precludes large scale solutions – number of copies and servers u
         may have, and geography\!\! Will be easy to replicate things
         locally, lots of bandwidth with low latency. But in global
-        scale, u may have low bandwidth, high latency  issue that u
+        scale, you may have low bandwidth, high latency → issue that u
         need to keep in mind
 
 **Summary**

@@ -19,7 +19,7 @@ date: 2020-02-12
 
   - Personalization- what is it that YOU are looking for?
   - Field of language- translation, Speech to text and text to speech
-  - Online shopping – suggesting things u like, Netflix (confirms the
+  - Online shopping – suggesting things you like, Netflix (confirms the
     prediction, if its wrong, the system learns)
       - Contest to improve the algorithm by 10%
   - Self-driving – distinguishing pedestrians from the road
@@ -30,15 +30,15 @@ date: 2020-02-12
     data
   - **Reinforcement learning** – has to do with control. Once you have
     the understanding of the world around you behaviour will change. It
-    won’t lead u to same conclusion. (finds max reward)
+    won’t lead you to same conclusion. (finds max reward)
   - When to write a normal program and when to write a ML program?
       - For normal programs, we have an algorithm, we implement it, and
         it outputs expected outcome.
-      - ML becomes important when u don’t know what exactly u want, but
-        u could provide examples
-          - what music do u like? what exactly do u like about that
+      - ML becomes important when you don’t know what exactly you want, but
+        you could provide examples
+          - what music do you like? what exactly do you like about that
             genre?
-          - Gather ‘features’, and use them to describe what u acc like
+          - Gather ‘features’, and use them to describe what you acc like
 
 **Supervised learning**
 
@@ -60,7 +60,7 @@ date: 2020-02-12
 labels aren’t given
 
   - **Clustering** – these points belong together however, human beings
-    have to go thru them and evaluate
+    have to go through them and evaluate
   - **Reinforcement Learning** – used to find the best possible path it
     should take in a specific situation. There is no answer, but the
     reinforcement agent decides what best to do to perform given test.
@@ -68,18 +68,18 @@ labels aren’t given
 **Machine learning process**
 
 1.  Data collection
-      - U need some data to work with, are also responsible for
-        gathering data. U need variety of data. E.g. face classification
-        – u need other ethnic groups too
+      - you need some data to work with, are also responsible for
+        gathering data. you need variety of data. E.g. face classification
+        – you need other ethnic groups too
       - aware of the fact that all classes should be represented
 
 2.  Feature selection
-      - When u have bunch of raw data what are u gonna look at? – e.g.
+      - When you have bunch of raw data what are you gonna look at? – e.g.
         number of leg, surface, sizes etc
       - Deriving the distance btwn the ppl in the video – they recognize
-        shaking hands, throwing stuff, etc depending on data, u need to
-        be creative to see what it is that u r tryna look at
-      - New way – deep learning\! U really just give the neural network
+        shaking hands, throwing stuff, etc depending on data, you need to
+        be creative to see what it is that you r tryna look at
+      - New way – deep learning\! you really just give the neural network
         the image, and that will figure what’s important
 
 3.  Algorithm choice
