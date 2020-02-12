@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Chae Rim Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # 
   bio              : "Computer Science Portfolio"
   location         : "Leeds, United Kingdom"
   email            :
