@@ -76,6 +76,17 @@ ins {
   }
 }
 
+/* devinlife comment: 구글 애드 센스의 아래 바 레이아웃 삭제
+ https://github.com/mmistakes/minimal-mistakes/issues/306 */
+ins.adsbygoogle {
+  border-bottom: none !important;
+  margin-bottom: 1em;
+}
+
+.toc-custom {
+  margin-top: 1em;
+}
+
 del a {
   color: inherit;
 }
@@ -126,6 +137,8 @@ blockquote {
 /* links */
 
 a {
+  /* devinlife : a link 하이퍼링크 밑줄 없애기 */
+  text-decoration: none;
   &:focus {
     @extend %tab-focus;
   }
