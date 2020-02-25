@@ -16,7 +16,7 @@ title                    : "Chae Rim Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chae Rim Kim"
-description              : "Computer Science Portfolio"
+description              : "Computer Scientist at the University of Leeds"
 url                      : "https://github.com/chaerim-kim/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
