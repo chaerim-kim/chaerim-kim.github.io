@@ -3,6 +3,7 @@ author_profile: true
 title: "About"
 permalink: /about/
 header:
+  image: /images/crk.JPG
 
 ---
 
