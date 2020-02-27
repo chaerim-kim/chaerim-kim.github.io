@@ -104,8 +104,8 @@ analytics:
 # Site Author
 author:
   name             : "Chae Rim Kim"
-  avatar           : ![image](https://user-images.githubusercontent.com/33334078/75441242-37b62e80-5955-11ea-9015-673b267a1dea.JPG)
-  bio              : "Computer Science Portfolio"
+  avatar           : /images/crk_avatar.JPG
+  bio              : "A third year Computer Science student at the University of Leeds"
   location         : "Leeds, United Kingdom"
   email            :
   links:
@@ -286,7 +286,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: tue
+      read_time: true
       comments: true
       share: false
       related: true
@@ -302,5 +302,5 @@ defaults:
       author_profile: true
       read_time: false
       comments: false
-      share: true
+      share: false
       related: false
