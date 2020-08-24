@@ -8,11 +8,11 @@ date: 2020-08-01
 
 ## **August's Updates**
 
-[1.Coronavirus accelerates European utilities' digital drive](#coronavirus-accelerates-european-utilities-digital-drive)
-[2.Google turns Android phones into earthquake sensors; California to get alerts](##google-turns-android-phones-into-earthquake-sensors-california-to-get-alerts)
-[3.Coronavirus: England's contact-tracing app gets green light for trial](##coronavirus-england-s-contact-tracing-app-gets-green-light-for-trial)
-[4.Amazon launches online pharmacy in India](##amazon-launches-online-pharmacy-in-india)
-[5.Uber ex-security boss accused of covering up hack attack](##uber-ex-security-boss-accused-of-covering-up-hack-attack)
+[1. Coronavirus accelerates European utilities' digital drive](#coronavirus-accelerates-european-utilities-digital-drive)   
+[2. Google turns Android phones into earthquake sensors; California to get alerts](#google-turns-android-phones-into-earthquake-sensors-california-to-get-alerts)  
+[3. Coronavirus: England's contact-tracing app gets green light for trial](#coronavirus-englands-contact-tracing-app-gets-green-light-for-trial)  
+[4. Amazon launches online pharmacy in India](#amazon-launches-online-pharmacy-in-india)  
+[5. Uber ex-security boss accused of covering up hack attack](#uber-ex-security-boss-accused-of-covering-up-hack-attack)  
 
 
 
@@ -95,3 +95,58 @@ date: 2020-08-01
   - The hackers broke into the systems anonymously, stole data and held the company to ransom.
 - **So?:**  The officer in charge was accused in the US.
 - [Link to the article](https://www.bbc.com/news/technology-53861375)
+
+
+
+
+## [August 25th, 2020]
+
+##  
+- **Who:**  
+- **What:** 
+- **When:**  
+- **Why:** 
+- **How:**  
+- **So?:** 
+- [Link to the article]()
+
+
+
+## [August 25th, 2020]
+
+##  
+- **Who:**  
+- **What:** 
+- **When:**  
+- **Why:** 
+- **How:**  
+- **So?:** 
+- [Link to the article]()
+
+
+
+
+## [August 25th, 2020]
+
+##  
+- **Who:**  
+- **What:** 
+- **When:**  
+- **Why:** 
+- **How:**  
+- **So?:** 
+- [Link to the article]()
+
+
+
+
+## [August 25th, 2020]
+
+##  
+- **Who:**  
+- **What:** 
+- **When:**  
+- **Why:** 
+- **How:**  
+- **So?:** 
+- [Link to the article]()
