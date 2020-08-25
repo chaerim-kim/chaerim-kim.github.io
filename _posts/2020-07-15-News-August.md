@@ -13,7 +13,7 @@ date: 2020-08-01
 [3. Coronavirus: England's contact-tracing app gets green light for trial](#coronavirus-englands-contact-tracing-app-gets-green-light-for-trial)  
 [4. Amazon launches online pharmacy in India](#amazon-launches-online-pharmacy-in-india)  
 [5. Uber ex-security boss accused of covering up hack attack](#uber-ex-security-boss-accused-of-covering-up-hack-attack)  
-
+[6. Carmakers urge FTC to fight Qualcomm ruling](#carmakers-urge-ftc-to-fight-qualcomm-ruling)
 
 
 ## [August 11th, 2020]
@@ -101,14 +101,19 @@ date: 2020-08-01
 
 ## [August 25th, 2020]
 
-##  
-- **Who:**  
-- **What:** 
-- **When:**  
-- **Why:** 
-- **How:**  
-- **So?:** 
-- [Link to the article]()
+##  Carmakers urge FTC to fight Qualcomm ruling
+- **Who:**  Carmakers including Tesla, Ford, Honda, Daimler, Intel and MediaTek
+- **What:**  Asked the Federal Trade Commission (FTC) to fight a recent court ruling in favour of Qualcomm - for stifling competition due to its patent rules.
+- **When:**  First complaint in January 2017, and ongoing battlefight now
+- **Why:**  
+  - Qualcomm is accused of using "anticompetitive tactics" to maintain a monopoly in supplying semiconductors for mobile phones and other products - requiring customers to sign patent licence agreements before selling them chips.
+  - Qualcomm's "anticompetitive conduct" led to the WiMax standard for 4G being dropped, while LTE became adopted by the global mobile industry instead.
+  - The "carmakers are suddenly faced with dealing with computer standards and computer patents, which is a big problem for them as they don't have any. So if they have to start licensing this stuff, it's going to get expensive for them," Mr Moody told the BBC.
+  - "If you want to grow the market for connected cars, what you really want is open standards without patent encumbrances, so that you can have as many companies participating in the market as possible [to] drive innovation and reduce costs."
+- **So?:**
+  - In May 2019, a US district judge sided with the FTC and ruled that Qualcomm would need to change its patent licensing practices, but earlier this month, a panel of judges in the Ninth Circuit Court of Appeals reversed the decision.
+  - If the carmakers wish, they can proceed to sue the chip company.
+- [Link to the article](https://www.bbc.com/news/business-53897401)
 
 
 
@@ -116,25 +121,11 @@ date: 2020-08-01
 
 ##  
 - **Who:**  
-- **What:** 
+- **What:**
 - **When:**  
-- **Why:** 
+- **Why:**
 - **How:**  
-- **So?:** 
-- [Link to the article]()
-
-
-
-
-## [August 25th, 2020]
-
-##  
-- **Who:**  
-- **What:** 
-- **When:**  
-- **Why:** 
-- **How:**  
-- **So?:** 
+- **So?:**
 - [Link to the article]()
 
 
@@ -144,9 +135,23 @@ date: 2020-08-01
 
 ##  
 - **Who:**  
-- **What:** 
+- **What:**
 - **When:**  
-- **Why:** 
+- **Why:**
 - **How:**  
-- **So?:** 
+- **So?:**
+- [Link to the article]()
+
+
+
+
+## [August 25th, 2020]
+
+##  
+- **Who:**  
+- **What:**
+- **When:**  
+- **Why:**
+- **How:**  
+- **So?:**
 - [Link to the article]()
