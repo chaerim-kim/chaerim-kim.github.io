@@ -13,7 +13,8 @@ date: 2020-08-01
 [3. Coronavirus: England's contact-tracing app gets green light for trial](#coronavirus-englands-contact-tracing-app-gets-green-light-for-trial)  
 [4. Amazon launches online pharmacy in India](#amazon-launches-online-pharmacy-in-india)  
 [5. Uber ex-security boss accused of covering up hack attack](#uber-ex-security-boss-accused-of-covering-up-hack-attack)  
-[6. Carmakers urge FTC to fight Qualcomm ruling](#carmakers-urge-ftc-to-fight-qualcomm-ruling)
+[6. Carmakers urge FTC to fight Qualcomm ruling](#carmakers-urge-ftc-to-fight-qualcomm-ruling)    
+[7.As fintech upends banking, Japan regulator expects more cross-boundary tie-ups](#as-fintech-upends-banking-japan-regulator-expects-more-cross-boundary-tie-ups)  
 
 
 ## [August 11th, 2020]
@@ -117,41 +118,15 @@ date: 2020-08-01
 
 
 
-## [August 25th, 2020]
+## [August 31th, 2020]
 
-##  
-- **Who:**  
-- **What:**
-- **When:**  
-- **Why:**
-- **How:**  
-- **So?:**
-- [Link to the article]()
-
-
-
-
-## [August 25th, 2020]
-
-##  
-- **Who:**  
-- **What:**
-- **When:**  
-- **Why:**
-- **How:**  
-- **So?:**
-- [Link to the article]()
-
-
-
-
-## [August 25th, 2020]
-
-##  
-- **Who:**  
-- **What:**
-- **When:**  
-- **Why:**
-- **How:**  
-- **So?:**
-- [Link to the article]()
+##  As fintech upends banking, Japan regulator expects more cross-boundary tie-ups
+- **Who:**  Japan's banking industry
+- **What:** More financial tie-ups and consolidation that extend beyond traditional boundaries have been observed in Japan's banking industry.
+- **When:**  Recently, starting from August 2020
+- **Why:**  
+  - Advances in financial technology triggered structural changes in Japan's banking industry.
+  - Years of ultra-low interest rates and a dwindling local population have hurt profits of regional banks, prodding some to consolidate or sign business tie-ups with each other to survive.
+- **How:**  Some have joined forces with an internet banking SBI (a newcomer of online banking).
+- **So?:** The conditions surrounding the country's banking industry are very severe, hence they are experiencing huge changes such as the tie=-up and consolidations - the adaptation to the fast changing era is essential.
+- [Link to the article](https://www.reuters.com/article/us-japan-economy-banking/as-fintech-upends-banking-japan-regulator-expects-more-cross-boundary-tie-ups-idUSKBN25R00X)
