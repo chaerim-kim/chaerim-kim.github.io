@@ -43,246 +43,6 @@
 
 
 
-## **Introduction**
-
-  - User adaptive or personalisation, but is a v loaded word
-
-  - Applied AI module
-
-**Augmenting human intelligence**
-
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image1.png)
-
-  - Intelligent system to make smarter decisions, preserve knowledge,
-    learn from experience and change behaviour
-
-  - This model is understanding the users and how we gonna adapt to
-    those users
-
-  - Also understanding the connectivity, taking into account the world
-    and users
-
-  - Ideas of nudging – can nudge the ppl to do better things – amazon
-    nudging us to buy shit
-
-**The personalisation buzz**
-
-  - Having a comp system to adapt to users
-
-      - Tailored to what we need, want and best fits current state
-
-  - Human to human interaction and personalisation is natural
-
-      - Speaking v slow
-
-      - Recommending what to buy
-
-  - BUT can we adapt the human AND the **computer** and can this be
-    personalised?
-
-  - How to make systems. That are not personalised to personalised.
-
-      - Minerva – not tailored
-
-**Past: Need for personalisation**
-
-  - Whenever sth is modified in its configuration or behaviour by
-    information about the user, this is personalisation
-
-  - Industries should not think if to personalise or not, instead u
-    gotta think HOW u gon personalise
-
-  - If we are delivering info, right info to the right person, at right
-    time in right way
-
-      - **right** \!\!\! is the smartness
-
-  - First is word – are u writing a letter? But it needs to pop up on
-    the right time
-
-**Today**
-
-  - We are using personalisation from diff industries
-
-      - Ecommerce – amazon, ebay etc
-
-      - Search – u'll get 2 diff response if u search for 2 diff laptop
-
-      - Mobile devices and desktops
-
-      - Variation of personalised digital portals – newspaper, libraries
-        etc
-
-**Why do we need personalisation?**
-
-  - Key factors – **right** right right
-
-  - Available info
-
-      - Heterogeneity – is overwhelming so gotta help them find the
-        right info
-
-      - Noise
-
-      - Constraints – bandwidth and time – how much u can absorb all
-        these information
-
-      - To narrow down the information
-
-  - People
-
-      - In the past, we had program used by typical users used
-        uniformly. However, the systems we use, we have massive users
-        with diff **capabilities and background**, So u need to adapt
-
-      - Diff task, goal, intentions
-
-      - Diff context – in diff settings and what info
-
-      - Affective states – emotional. Not exactly clear what effect it
-        has
-
-**  
-**
-
-**Two Types of personalisation – 2<sup>nd</sup> core slide**
-
-  - Adaptable systems (customisable)
-
-      - User is able to modify aspects of the system to suit their
-        preferences
-
-          - I wanna get these types of news and u set up a filter
-
-      - Limitation – they don’t know what and how to customize
-
-      - Plus – interface wise, to get the user to pick and mix
-
-  - Adaptive systems
-
-      - Automatically changes their behaviour due to smart engine
-        independent of user specifications
-
-          - YouTube recommendation
-
-      - \!\! Core part of this module
-
-  - Intermediate cases
-
-      - System proposes poss adaptations and user decides to accept
-
-**User adaptive system & AI**
-
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image2.png)
-
-  - No human
-
-      - Ai could be just one – simple automated intelligence
-
-      - Capable of taking decisions itself – autonomous intelligence
-
-**Example: user-ADAPTABLE interface**
-
-  - Web browser - Can change layout and what to see, choose content
-
-  - HCI but not in this module
-
-**\!\! Example; user ADAPTIVE interface**
-
-  - Start menu in windows. It narrow downs the program of what programs
-    user consume and it picks that as the users preferred option
-
-  - Limitations – too many and not adaptive, hence not regular
-
-      - Narrowing down the users, and it takes long to find it
-
-      - Then go back to customisation and ask them
-
-      - We use spatial memory to know whereabouts stuff are – causes
-        confusion. For e.g in diff languages and u uses spatial mem
-
-**More recent examples**
-
-  - MoCoMapps
-
-      - Massive amt of information of cities and how to encourage ppl to
-        contribute to it. How social technologies can help cities be
-        smarter – civic engagement, tourism,
-
-      - Customizable interface
-
-      - She specifies the types of data customization
-
-      - It takes what's imp for him and recommends it – adaptive
-
-  - Ecoach
-
-      - Mid agent of Minerva – u register and fill in personal info and
-        asks u for
-
-      - Do psychometric test to identify learners’ motivational factors
-
-      - Link to uni student info
-
-      - And it gives simple adaptations such as reminders and feedback
-
-      - Recommendations of adaptive and motivational way
-
-  - Google map – if u rate then it gives u recs of new places u might
-    like
-
-**Personalisation from consumer perspective**
-
-  - 80% of consumers are sticking to a business if the system is
-    personalised
-
-  - Personalisation improving the experiences
-
-  - What they see as personalisation?
-
-      - Customisation - sth suited to me so I'm more interested
-
-      - Service – companies will know what I want and help w the
-        experience
-
-      - Discount and offers – personalised offers
-
-      - Specific products that are tailored to them
-
-      - Convenience with user
-
-  - What do we notice here?
-
-      - This is looking at the positives – and that the data collected
-        is used for their convenience
-
-  - Top personalisation experiences
-
-      - Coupon, discounts - 31% that provides discounts due to
-        personalisation
-
-  - Top company - Amazon
-
-  - What do u want to see in personalised message?
-
-      - Recognition of who they are
-
-      - Help them buy shit
-
-      - ![A screenshot of a social media post Description automatically
-        generated](media/image3.png)
-
-**Personalisation of business perspective**
-
-  - 50% of companies are providing personalisation
-
-  - What could be the possibility of personalisation?
-
-      - Recommender, personal shopper, diagnostic, filter, teacher user
-        adaptive intelligent sys
-
 ## **General Schema of User Adaptive Systems**
 
 **Previous lecture**
@@ -328,12 +88,12 @@
             30 mins but only writes one sentence. Not good
             representation
 
-3.  **User model -** After processing of the data u come up with a
+3.  **User model -** After processing of the data you come up with a
     **user model**
 
       - Could be db, XML, knowledge model
 
-      - Is imp to represent characteristics u can use for ur application
+      - Is important to represent characteristics you can use for ur application
 
       - It ties it all together and give meaning and **structure** to
         the data we collected
@@ -345,7 +105,7 @@
 
 5.  **Adapting to user -** Finally user sees the **interface**
 
-      - Could be that it is larger, colour is different, u get more
+      - Could be that it is larger, colour is different, you get more
         description about an item
 
 <!-- end list -->
@@ -371,14 +131,14 @@
 
   - **User model application –** uses the user model to:
 
-      - Make predictions and based on that u make decisions about User
+      - Make predictions and based on that you make decisions about User
 
 **Discussion –** what is the most important?
 
   - **Information about the user** – gotta have the right information to
     start with, as everything is dependent on it
 
-  - **User model acquisition** – bc u gotta collect and pick the right
+  - **User model acquisition** – bc you gotta collect and pick the right
     data
 
   - **Adapting to user** (interface)– when working with end users, this
@@ -389,7 +149,7 @@
   - **User model** – user model gives meaning to the information by
     giving it a structure
 
-  - By choosing what's the most imp they compute differently – HCI or
+  - By choosing what's the most important they compute differently – HCI or
     data processing or etc
 
   - Need to have confidence in the user model
@@ -452,7 +212,7 @@
 **Supporting learning - SQL tutor**
 
   - Learning system - We have a digital info to read, a quiz, analyse
-    then u decide if u are progressing
+    then you decide if you are progressing
 
       - How confident they are with diff SQL commands – SELECT, ORDER BY
 
@@ -471,7 +231,7 @@
     4.  Rule-based engine consulting the user model – how to generate
         the feedback and how to make a coherent piece
 
-          - How constantly did u give a feedback?
+          - How constantly did you give a feedback?
 
           - And as they become better u’ll fade and give less feedback
 
@@ -491,7 +251,7 @@
 
   - Function of the system
 
-      - Protects ppl from flooding incoming messages, by blocking it
+      - Protects people from flooding incoming messages, by blocking it
         depending on user availability and status
 
       - Adaptive assistant causes msgs to be discouraged, delayed and
@@ -518,7 +278,7 @@
 
       - Door open
 
-      - Phone or comp keyboard and mouse
+      - Phone or computer keyboard and mouse
 
       - Events in calendar
 
@@ -541,7 +301,7 @@
 
 Recognition of mental state of drivers
 
-  - Imp coz of safety issues
+  - important coz of safety issues
 
   - Safety relevant issues such as drowsiness and stress.
 
@@ -566,7 +326,7 @@ Application
 
   - Safety driving
 
-  - Mobile apps – user is not available and interrupt so u don’t need to
+    - Mobile apps – user is not available and interrupt so you don’t need to
     pop up noti
 
 **AGENT SALON – supporting collaboration**
@@ -674,36 +434,36 @@ Questions to ask are what are the incoming data, what Ai tech itsuing,
         database format
 
 3.  **User model** → additional information about all the other users,
-    bc u look at what other ppl buy
+    bc you look at what other people buy
 
       - Matrix of user by item – simple user model
 
 4.  **User model application**
 
-      - U choose item user is interested in from the **matrix**, and
+      - you choose item user is interested in from the **matrix**, and
         recommend user the items
 
           - And **outer knowledge** – other people’s interest
 
       - By categories of the item to fetch the most common category
 
-          - **Metadata+ external knowledge** that tells u about the
+          - **Metadata+ external knowledge** that tells you about the
             categories
 
-      - in both cases u need outer knowledge
+      - in both cases you need outer knowledge
 
 5.  **Recommendation**
 
 <!-- end list -->
 
-  - **Cold start –** if user hasn’t brought anything and u recommend
+  - **Cold start –** if user hasn’t brought anything and you recommend
     trending products
 
 **Amazon – recommendations for all products**
 
   - Same info coming about the user
 
-  - Now they wanna surprise the user → in order to do that u need
+  - Now they wanna surprise the user → in order to do that you need
     external knowledge about the user
 
 **  
@@ -789,7 +549,7 @@ first 2 is this lecture
 
   - E.g.
 
-      - User knowledge - indicating sth about the user and the info that
+      - User knowledge - indicating something about the user and the info that
         user may know. So the fact that she's German
 
       - Expected knowledge – Since she is German, so she’d know BMW
@@ -820,7 +580,7 @@ first 2 is this lecture
 
       - Binary (do they know? Yes or no)
 
-      - Categories (how well do u know (+++ know well, ++ some
+      - Categories (how well do you know (+++ know well, ++ some
         knowledge, - no)
 
 <!-- end list -->
@@ -845,19 +605,19 @@ first 2 is this lecture
 
   - Pull it further to **concept based**
 
-      - Those keywords to be a concept, u need a knowledge beyond/
+      - Those keywords to be a concept, you need a knowledge beyond/
         behind, which comes from knowledge source. (wikidata, google)
 
       - Have external knowledge graph, you mark that word or phrase and
-        map it to a concept; u have a lot around that concept gives
+        map it to a concept; you have a lot around that concept gives
         richness around that word
 
-      - It gives richness. So next time u read about oil crisis u can
-        approximate and pull another news coz u know that user is
+      - It gives richness. So next time you read about oil crisis you can
+        approximate and pull another news coz you know that user is
         interested
 
   - Concept level is more powerful in reasoning hence adaptation– if I
-    have concept and relationship u can jump from to another
+    have concept and relationship you can jump from to another
 
   - Can stay in keyword and look for **synonyms**, and could be
     integrated within that business
@@ -889,10 +649,10 @@ first 2 is this lecture
 
   - Challenge – you usually have a limited interaction with the user
 
-      - Have short session w the system and v little detail about their
+      - Have short session w the system and very little detail about their
         interests **sparsity**
 
-  - You may not have the exact items user are interested; hence u need
+  - You may not have the exact items user are interested; hence you need
     some sort of **similarity** to provide to user
 
       - To overcome So in concept, connected node; for list of
@@ -912,7 +672,7 @@ first 2 is this lecture
 
       - Graphs are **complex** coz it has relationship + goes up. When u
         pull external taxonomy, it could be very rich. So you need to
-        know how far up you'll go
+        know how far up yoyou'll go
 
       - External source could be **noisy** and has **limited data**
 
@@ -965,7 +725,7 @@ first 2 is this lecture
 
           - Sub goal – tasks to use the transport
 
-      - Goal – locations u wanna visit
+      - Goal – locations you wanna visit
 
           - Sub goal – how to get there
 
@@ -1018,7 +778,7 @@ first 2 is this lecture
       - E.g. Introvert, extrovert, fast thinker, future thinker
 
       - Personality is useful when: you are trying to convince someone.
-        If they are future/ present thinker u recommend it but tweak it.
+        If they are future/ present thinker you recommend it but tweak it.
 
 <!-- end list -->
 
@@ -1103,7 +863,7 @@ first 2 is this lecture
       - Capability of the **device** – we use the performance of the
         device
 
-          - E.g. smart watches – v limited screen, so need to be aware
+          - E.g. smart watches – very limited screen, so need to be aware
             of that
 
       - **Environment context** – noise, pollution, movement, crowd
@@ -1208,7 +968,7 @@ first 2 is this lecture
 <li><p>Places additional burden on the user and can take long hence can lower user experience</p></li>
 <li><p>User may be confused or biased in information they give</p></li>
 <li><p>There may be information outside of what user knows</p></li>
-<li><p>Dynamic changes can be missed – ppl change and u have to ask multiple times inaccuracy overtime</p></li>
+<li><p>Dynamic changes can be missed – people change and you have to ask multiple times inaccuracy overtime</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -1306,7 +1066,7 @@ first 2 is this lecture
 </ul></td>
 <td>Websites/ search engine sites that are logged</td>
 <td><ul>
-<li><p>If u can link the word’s meanings to concept, it can be quite clever – knowledge graph of google (airport-travel)</p></li>
+<li><p>If you can link the word’s meanings to concept, it can be quite clever – knowledge graph of google (airport-travel)</p></li>
 <li><p>Information about multiple users collected</p></li>
 <li><p>Collection and use of information all at same time</p></li>
 </ul></td>
@@ -1325,7 +1085,7 @@ first 2 is this lecture
 <td><ul>
 <li></li>
 </ul></td>
-<td>Has to be sth that already exists so could not be much</td>
+<td>Has to be something that already exists so could not be much</td>
 </tr>
 <tr class="odd">
 <td><strong>Mobile/ wearable sensors</strong></td>
@@ -1353,7 +1113,7 @@ first 2 is this lecture
 </ul>
 <p>Email dictation – emails now reside somewhere in the server</p>
 <ul>
-<li><p>Can disadvantage some ppl with handicap – need to offer another door</p></li>
+<li><p>Can disadvantage some people with handicap – need to offer another door</p></li>
 <li><p>Some languages may not be well resourced</p></li>
 <li><p>Environment restricted – noisy</p></li>
 </ul></td>
@@ -1363,7 +1123,7 @@ first 2 is this lecture
 
 **<span class="smallcaps">Step 1. User identification</span>**
 
-  - Once u decide the information collection method, who is the user?
+  - Once you decide the information collection method, who is the user?
     How do we identify the user we are building the model for?
 
   - Crucial for any system that constructs profiles that represent
@@ -1420,7 +1180,7 @@ first 2 is this lecture
           - \+ Good for searches – look at the session for short time
             and start recommending (adapting)
 
-          - \+ Doesn’t violate privacy – no need to record bc u are only
+          - \+ Doesn’t violate privacy – no need to record bc you are only
             looking at the current session
 
           - \- Not a long-term user model
@@ -1757,7 +1517,7 @@ formula](media/image18.png)
 
 ###
 
-**We need several metrics -** from what we measure to sth meaningful/
+**We need several metrics -** from what we measure to something meaningful/
 clever
 
   - Games – users spend much time per visit
@@ -1813,7 +1573,7 @@ result page
 
 **3. Dwell time in search: Eye tracking**
 
-  - Since dwell time is so imp they are combining w Eye tracking
+  - Since dwell time is so important they are combining w Eye tracking
 
       - Can determine bad or good abandonment
 
@@ -1887,11 +1647,11 @@ result page
 
   - Metrics
 
-      - Attention – whenabouts ppl leave the vid
+      - Attention – whenabouts people leave the vid
 
       - Click through rate
 
-      - If they can predict how long ppl will stay in the vid
+      - If they can predict how long people will stay in the vid
 
       -
 <!-- end list -->
@@ -1920,7 +1680,7 @@ result page
 
   - What do you do then?
 
-      - Can narrow down to sth that is most related; but how?
+      - Can narrow down to something that is most related; but how?
 
       - Can open up and have dialogue with them
 
@@ -1931,7 +1691,7 @@ result page
   - Travel agent
 
       - Since you are a student and ask if you are venturer, then
-        recommends you what other ppl in the same category likes
+        recommends you what other people in the same category likes
 
 **Concept of a ‘stereotype’**
 
@@ -1939,7 +1699,7 @@ result page
 
   - Frame based representation – fundamental underneath
 
-  - Quite intuitive – e.g. sth is a seasoned traveller, teenager,
+  - Quite intuitive – e.g. something is a seasoned traveller, teenager,
     venture, we categorize and recommend
 
   - Why?
@@ -1980,14 +1740,14 @@ result page
   - We have small number of observations about the user – we know little
     about the user
 
-  - E.g. about her lecture, she knows where ppl struggle and try to
+  - E.g. about her lecture, she knows where people struggle and try to
     adapt to it
 
 **Scenario: Travel information system**
 
   - Simple explicit user model –
 
-  - **User registers** and tells v little about themselves about their
+  - **User registers** and tells very little about themselves about their
     demographic information
 
       - We are not asking about interest, destination, kind of hotels
@@ -2258,7 +2018,7 @@ result page
 
   - **profile stereotypes inferred user model**
 
-  - In our system about traveller system we have v little information
+  - In our system about traveller system we have very little information
     about the user we decide which trigger decide stereotype from
     several stereo we combine and come up with an inferred user model
 
@@ -2666,7 +2426,7 @@ PROFESSIONAL</td>
       - NOT correct should be amended in the future
 
   - You are preserving what's happening, and you are constantly
-    recommending sth –
+    recommending something –
 
   - Need to think of what you are tuning
 
@@ -2726,11 +2486,11 @@ PROFESSIONAL</td>
 
       - You want to direct the user and narrow to one or two arrows and
         to not overload the user the simple view of what the recommender
-        sys is doing
+        system is doing
 
 **Recommender systems**
 
-  - Families of the recommender sys – to give an overview of algorithms
+  - Families of the recommender system – to give an overview of algorithms
     of the recommender sys
 
   - **Content-based recommenders**
@@ -2764,7 +2524,7 @@ PROFESSIONAL</td>
 
   - **Collaborative or social filtering**
 
-      - It looks at social behaviours what other ppl has been doing –
+      - It looks at social behaviours what other people has been doing –
         looks at attention of the others – and recommend what other ppl
         may like
 
@@ -2856,7 +2616,7 @@ PROFESSIONAL</td>
                 has? Good rating coz good description of the product AND
                 the helpfulness index.
 
-                  - Challenge w helpfulness – v little ppl give this
+                  - Challenge w helpfulness – very little people give this
                     info – skewed data
 
           - E.g. videos and podcasts – if no metadata, can I actually
@@ -2983,7 +2743,7 @@ PROFESSIONAL</td>
 
 2.  **User** – how interested the student is, to mentioned ters
 
-    1.  U = (1, 0, 1, 2, 1, 0, 1)
+    1.  you = (1, 0, 1, 2, 1, 0, 1)
 
 3.  **Item** – how related the news items are to the term; so we take
     **one item PER item for each item vector**
@@ -2996,7 +2756,7 @@ PROFESSIONAL</td>
 
     4.  In
 
-4.  So we do similarities between User U and I1, U and I2, U and I3.
+4.  So we do similarities between User you and I1, you and I2, you and I3.
     Then we sort it, take top items that are the most similar match up
     user with each item vector
 
@@ -3028,7 +2788,7 @@ PROFESSIONAL</td>
       - User model is obtained from stereotypes which gives some facets
         with values and ratings.
 
-      - U = (\<u1v1r1\>, \<u2v2r1\>, ..) - values and ratings related to
+      - you = (\<u1v1r1\>, \<u2v2r1\>, ..) - values and ratings related to
         the content
 
       - **U = (\<study, UG, 0.7\>, \<study, full-time, 0.7\>, \<sport,
@@ -3052,7 +2812,7 @@ PROFESSIONAL</td>
 
   - **Calculate Relevance**
 
-      - Need some mechanism to calculate the relevance between U and I
+      - Need some mechanism to calculate the relevance between you and I
 
       - ![A picture containing object Description automatically
         generated](media/image34.png)rating \* item
@@ -3093,7 +2853,7 @@ ratings**
 
   - We have items with facet, values and item relevance
 
-  - Recommender calculates the relevance between the U and each of the
+  - Recommender calculates the relevance between the you and each of the
     items I1,I2, Im etc
 
   - ![](media/image36.png)Recommend top k
@@ -3114,7 +2874,7 @@ ratings**
 
   - ![](media/image37.png)**User model**
 
-      - U = (u1,u2,un)
+      - you = (u1,u2,un)
 
       - We would know what is relevant to the user blue is relevant
 
@@ -3286,7 +3046,7 @@ museum experience**
   - First component before developing personalised app, is the
     **knowledge**
 
-  - Snippet of the knowledge model – comp scientist together with
+  - Snippet of the knowledge model – computer scientist together with
     curators worked together to identify the core knowledge required for
     painting rec
 
@@ -3398,7 +3158,7 @@ museum experience**
 
   - Knowledge allows:
 
-      - To describe **why** sth has been recommended
+      - To describe **why** something has been recommended
 
       - Allows you to diversify and to recommends other paintings
 
@@ -3437,7 +3197,7 @@ museum experience**
 
 10.3.20
 
-  - Google - It assumes you are looking for the flight hotel and shit
+  - Google - It assumes you are looking for the flight hotel and stuff
 
       - Uses location too
 
@@ -3727,7 +3487,7 @@ museum experience**
               - > \- Problem is updating db. Could lose some data during
                 > a week or so
 
-              - > \+ when the user item is big, its v fast
+              - > \+ when the user item is big, its very fast
 
 ![](media/image49.png)**E.g. Amazon item-item collaborative filtering –
 to address scalability**
@@ -3961,7 +3721,7 @@ generated](media/image54.png)
   - Utility – what is the benefit for the user? And it recommends the
     most efficient or the best choice
 
-      - Best decision – imp for doctors in diagnosis
+      - Best decision – important for doctors in diagnosis
 
       - People be happy
 
@@ -4101,7 +3861,7 @@ generated](media/image55.png)
 
   - Crucial is to explain to the user, the results
 
-  - Another crucial is that the recs shouldn’t be too controversial need
+  - Another crucial is that the recommendations shouldn’t be too controversial need
     coherence in the recs
 
   - ![A screenshot of a cell phone Description automatically
@@ -4248,7 +4008,7 @@ generated](media/image55.png)
 
           - Netflix. And the gray sheep items movie napoleon dynamite.
 
-          - V imp when you analysing algo to know the strength and
+          - very important when you analysing algo to know the strength and
             weaknesses to think of ways to hybridise or minimise
 
   - Several algorithms
@@ -4327,9 +4087,9 @@ generated](media/image55.png)
 
   - Bad choice is when the prediction and actual differs by large
 
-  - Rec 1 \> rec2
+  - recommendation 1 \> rec2
 
-  - Rec 3 is not as bad as rec 2, but if we only look at abs error, R1
+  - recommendation 3 is not as bad as recommendation 2, but if we only look at abs error, R1
     and R3 performs the same. BUT if we have an extreme error, (a1-p1)
     \>4 this will impact the error bc we square it
 
@@ -4391,9 +4151,9 @@ generated](media/image55.png)
 **Beyond accuracy: Novelty/ Serendipity**
 
   - Easy to recommend items that are common or what user is used to, but
-    wat about sth that user is not used to?
+    wat about something that user is not used to?
 
-  - **Novelty** – sth is not within the prediction, but is close to it
+  - **Novelty** – something is not within the prediction, but is close to it
     hence will broaden the user experience
 
   - **Serendipity** – something new, but is a relevant and pleasant
@@ -4503,7 +4263,7 @@ generated](media/image55.png)
     2.  Social (collaborative) – we look for user’s interest and
         opinions about particular items
 
-2.  **Aggregation strategies** – to aggregate and come up with one rec →
+2.  **Aggregation strategies** – to aggregate and come up with one recommendation →
     focus of the lec
 
 3.  Present the recommendations to the group with appropriate
@@ -4643,7 +4403,7 @@ generated](media/image55.png)
   - You recommend and see how individual members of the group feels
     about it.
 
-  - Reading – when people was given the rec for the group and asked how
+  - Reading – when people was given the recommendation for the group and asked how
     satisfied they were, and their friends thought
 
   - Two keys factor of people’s satisfaction with the group rec
@@ -4657,7 +4417,7 @@ generated](media/image55.png)
 
   - Several relationships that might affect
 
-  - You'll suck it up
+  - Yoyou'll suck it up
 
       - **Communal sharing** -Best friend – if you have to compromise
         for someone you like, you’d be happy
@@ -4694,7 +4454,7 @@ generated](media/image55.png)
 
   - **Reading for further clarification**
 
-  - V imp so strongly recommend
+  - very important so strongly recommend
 
   - Decide what to show to the user – what to show and how to show is
     called adaptive content presentation
@@ -5148,7 +4908,7 @@ architect)**
   - **Limitations of technical resources**
 
   - → need to bring those when we **automatically generate and present**
-    it. Need to identify which are the most imp ones for adaptations
+    it. Need to identify which are the most important ones for adaptations
 
 2 widely used approaches of dynamic content presentation
 
@@ -5305,7 +5065,7 @@ architect)**
       - **Sampling rate** – when we evaluate the input of the data,
         rather that data is representative about the user
 
-  - We don’t know if the user is alone → imp data missing \! the
+  - We don’t know if the user is alone → important data missing \! the
     **social aspect** of the user is missing → can identify though the
     **user test**
 
@@ -5329,7 +5089,7 @@ architect)**
 
       - **\*Simulated user** - to test this persona method
 
-  - In this case, you'll be checking in regards to **accuracy** (what
+  - In this case, yoyou'll be checking in regards to **accuracy** (what
     they entered is what they got), **latency** (app is used before they
     visit the city), is there any other data that we are missing
 
@@ -5428,7 +5188,7 @@ architect)**
           - **E**.g. system will collect my choices for restos and
             destination – but if its collecting all my travel, it will
             evaluate my travel pattern which is unnecessary – with
-            heuristic, you'll identify that irrelevant data is collected
+            heuristic, yoyou'll identify that irrelevant data is collected
 
       - **User test** – need real user to test the comprehensiveness esp
         with user with impairments, if they are disadvantaged in any way
@@ -5773,7 +5533,7 @@ Q – will the online exam be part of the exam?
 
       - Adaptive content presentiaon part of the exam
 
-      - Sth from evaluation of ev
+      - something from evaluation of ev
 
   - If its been in the cwk – will be less.
 
@@ -6008,7 +5768,7 @@ But tis q is given the city thing – so 3city could apply
 
   - Take an eg, look at background data, input data and algorithm
 
-      - Background - You need rec of users, geolocations
+      - Background - You need recommendation of users, geolocations
 
       - Input – rating from the visitor of items of interest gps
         location
@@ -6103,7 +5863,7 @@ answer
 
   - Reshuffling of crowd – you will have diminish controllability
 
-      - Mitigating factors, and which you'll apply
+      - Mitigating factors, and which yoyou'll apply
 
   - Obtrusive – user will feel obtrused, and what would happen
 
