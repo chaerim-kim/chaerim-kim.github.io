@@ -61,7 +61,7 @@
 
 **Schema of user-Adaptive Systems**
 
-  - ![](media/image4.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95707698-37c12f80-0c95-11eb-985c-756d9df937e4.png)
 
 <!-- end list -->
 
@@ -192,8 +192,8 @@
 
 <!-- end list -->
 
-  - ![A close up of text on a black background Description automatically
-    generated](media/image5.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95707718-47407880-0c95-11eb-9b1f-2a594a76eac2.png)
+
 
     1.  Collects info about menus that user clicks – this is the input
         of the algorithm (or how long user stays, what files etc)
@@ -239,8 +239,8 @@
 
 **LILSYS – mediating interaction with the real world**
 
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image6.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95707733-53c4d100-0c95-11eb-8b59-c2f82540bd2a.png)
+
 
   - User model – want to find user’s **availability** and
     **interoperability**
@@ -331,8 +331,8 @@ Application
 
 **AGENT SALON – supporting collaboration**
 
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image7.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95707755-5c1d0c00-0c95-11eb-9293-fbcade6fdce8.png)
+
 
   - So these days, network and computers connected allow for easy
     collaboration by taking into account the ways in which user match or
@@ -474,8 +474,9 @@ Questions to ask are what are the incoming data, what Ai tech itsuing,
 5.  ## **User models and profiles (representation) II**
 
 **User models – three broad questions**
+![image](https://user-images.githubusercontent.com/33334078/95707771-6808ce00-0c95-11eb-88f8-6af266cd7e40.png)
 
-1.  ![](media/image8.png) \*What is being modelled?
+1.  \*What is being modelled?
 
     1.  The nature of information
 
@@ -527,7 +528,9 @@ first 2 is this lecture
 
   - Based on these values you can assume the proficiency / knowledge
 
-**Structural models – graphs**![](media/image9.png)
+**Structural models – graphs**
+![image](https://user-images.githubusercontent.com/33334078/95707799-79ea7100-0c95-11eb-94b8-67993f2e5fcb.png)
+
 
   - In graphs, we have:
 
@@ -575,8 +578,8 @@ first 2 is this lecture
 
   - Knowledge model of UoL
 
-  - ![A close up of text on a white background Description automatically
-    generated](media/image10.jpeg)
+  - ![image](https://user-images.githubusercontent.com/33334078/95707807-8242ac00-0c95-11eb-8c87-b9842a91f886.png)
+
 
       - Binary (do they know? Yes or no)
 
@@ -632,8 +635,7 @@ first 2 is this lecture
       - We don’t know if they know it or not, we know that these
         interests them
 
-  - ![A close up of text on a white background Description automatically
-    generated](media/image11.png)concepts and knowledge
+  - ![image](https://user-images.githubusercontent.com/33334078/95707821-8ec70480-0c95-11eb-8414-a7268de2dc63.png) concepts and knowledge
 
   - Using **overlay model** over a structure
 
@@ -665,8 +667,8 @@ first 2 is this lecture
   - Taxonomy limits the knowledge to those that has **inheritance**
     (instances); but makes it easier to process
 
-  - ![A close up of a logo Description automatically
-    generated](media/image12.jpeg)
+  - ![image](https://user-images.githubusercontent.com/33334078/95707846-a7371f00-0c95-11eb-9496-5f11f69f4d6f.png)
+
 
   - Problem with the model
 
@@ -685,10 +687,10 @@ first 2 is this lecture
 3.  **Goals and tasks**
 
 <!-- end list -->
-
+  - ![image](https://user-images.githubusercontent.com/33334078/95707858-b1f1b400-0c95-11eb-832e-c40bb4375c3b.png)
   - Most challenging/ changeable as goal/ task recognition is difficult
 
-  - ![](media/image13.jpeg)Usually modelled with a ‘goal catalogue’
+  - Usually modelled with a ‘goal catalogue’
     approach (predefined list/ structure of user goals and tasks)
 
   - To mark users goal somewhere in the catalogue then activate
@@ -704,7 +706,8 @@ first 2 is this lecture
       - There's a simple goal on top and based on tasks users have
         accomplished, identify the user goal
 
-![](media/image14.png)**Goals and tasks II**
+**Goals and tasks II**
+  - ![image](https://user-images.githubusercontent.com/33334078/95707878-c03fd000-0c95-11eb-8138-18aec2a4bd33.png)
 
   - Using an overlay model with predefined goals or tasks
 
@@ -729,8 +732,7 @@ first 2 is this lecture
 
           - Sub goal – how to get there
 
-  - ![A screenshot of text Description automatically
-    generated](media/image15.jpeg)
+  - ![image](https://user-images.githubusercontent.com/33334078/95707895-cf268280-0c95-11eb-96cd-506d80e76ddd.png)
 
 <!-- end list -->
 
@@ -838,8 +840,7 @@ first 2 is this lecture
 
 **Dimensions of context**
 
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image16.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95707906-d8afea80-0c95-11eb-90f0-fd17ce0355a0.png)
 
   - Can take it from the context of the user (right) and see how far you
     can stretch further
@@ -1233,10 +1234,9 @@ first 2 is this lecture
 
 1.  **Building keyword-based user model**
 
-![page14image7742400](media/image17.jpeg)![Image result for tfidf
-formula](media/image18.png)
+![Picture 1](https://user-images.githubusercontent.com/33334078/95707971-085ef280-0c96-11eb-82bf-db74a152def6.png)
+![Picture 12](https://user-images.githubusercontent.com/33334078/95707979-0b59e300-0c96-11eb-910b-73856dcf7ea9.png)
 
-  -
 <!-- end list -->
 
 1.  Initially created by extracting keywords from web pages collected
@@ -1291,7 +1291,8 @@ formula](media/image18.png)
 
 <!-- end list -->
 
-2.  ![](media/image19.png)**Building graph-based user model**
+2.  **Building graph-based user model**
+  - ![image](https://user-images.githubusercontent.com/33334078/95708001-20cf0d00-0c96-11eb-9cbd-2191515a7e0d.png)
 
 <!-- end list -->
 
@@ -1353,8 +1354,8 @@ formula](media/image18.png)
 
   - **First method**
 
-      - ![A close up of a device Description automatically
-        generated](media/image20.png)
+      - ![image](https://user-images.githubusercontent.com/33334078/95708030-2d536580-0c96-11eb-85a6-11b055f3b65f.png)
+
 
       - We take each document and do semantic tagging to get the overlay
 
@@ -1369,7 +1370,7 @@ formula](media/image18.png)
 
   - **Second method**
 
-  - ![](media/image21.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95708043-393f2780-0c96-11eb-8539-f205b14f5750.png)
 
   - Identified positive documents, then based on that you need to
     identify what are the common things in these documents
@@ -1457,9 +1458,9 @@ formula](media/image18.png)
 
 **User engagement lifecycle**
 
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image22.png)![A screenshot of a cell phone
-    Description automatically generated](media/image23.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95708056-41976280-0c96-11eb-930a-463b477502bd.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95708067-49570700-0c96-11eb-947d-8cb840abab72.png)
+
 
   - **New** users
 
@@ -1577,8 +1578,10 @@ result page
 
       - Can determine bad or good abandonment
 
-  - ![](media/image24.png)With the tracking can determine if the user is
+  - With the tracking can determine if the user is
     reading the article or if they got lost
+  - ![image](https://user-images.githubusercontent.com/33334078/95708172-858a6780-0c96-11eb-8fe7-1a32dffae858.png)
+
 
   - **Relevant docu vs irrelevant docu**
 
@@ -1588,7 +1591,8 @@ result page
 
       - areas and duration of fixation
 
-  - ![](media/image25.png)The **trajectory** **of the eye**
+  - The **trajectory** **of the eye**
+      - ![image](https://user-images.githubusercontent.com/33334078/95708183-8f13cf80-0c96-11eb-9a6c-f9beb5e8caff.png)
 
       - Allow us to know the sequence of the area user is focused on
 
@@ -2332,9 +2336,9 @@ PROFESSIONAL</td>
   - Can decide if these are going to be the facet in your stereotype or
     not
 
-![](media/image26.png)
 
 **Obtaining stereotypes from data: TV**
+  - ![image](https://user-images.githubusercontent.com/33334078/95708262-bff40480-0c96-11eb-8012-7a9f14da5c38.png)
 
   - Identify the clusters, and derive what's meaningful
 
@@ -2373,8 +2377,8 @@ PROFESSIONAL</td>
           - \- can't re-purpose the data – need consent to use the data
             for stereotyping
 
-![](media/image27.png)**Resolving stereotype contradictions**
-
+**Resolving stereotype contradictions**
+  - ![image](https://user-images.githubusercontent.com/33334078/95708275-c97d6c80-0c96-11eb-8155-6123968789dd.png)
   - Can have general vs specific
 
       - E.g. Undergrad student and student
@@ -2470,7 +2474,8 @@ PROFESSIONAL</td>
 
 12. ## **Recommender systems (Part 1) – Content-based Recommenders II**
 
-![](media/image28.png)**Schema of user adaptive systems**
+**Schema of user adaptive systems**
+  - ![image](https://user-images.githubusercontent.com/33334078/95708291-d601c500-0c96-11eb-9b81-1c9ea7d4e561.png)
 
   - How to decide given this user model, what to give to user
 
@@ -2642,8 +2647,9 @@ PROFESSIONAL</td>
     will take these into account
 
 **Architecture of CBF**
+- ![image](https://user-images.githubusercontent.com/33334078/95708312-e31eb400-0c96-11eb-9825-98332f3a305c.png)
 
-1.  ![](media/image29.png)When the user interacts through the interface,
+1.  When the user interacts through the interface,
     you have a clever way of **obtaining the user model** – through
     <span class="underline">explicit</span> by asking the user and
     <span class="underline">implicit</span> by analysing the interaction
@@ -2674,7 +2680,7 @@ PROFESSIONAL</td>
 
       - For each of the terms, what are the weights
 
-      - ![](media/image30.png)what we know about that **ONE** user in
+      - ![image](https://user-images.githubusercontent.com/33334078/95708337-f03ba300-0c96-11eb-81f2-e491f4e33226.png)what we know about that **ONE** user in
         terms of term \#2?
 
           - Wishlist, clicking, etc then we have to identify the weights
@@ -2687,7 +2693,7 @@ PROFESSIONAL</td>
       - For each **item in the content** we have to get a vector that
         corresponds to that term
 
-      - ![](media/image31.png)target terms, and how relevant those terms
+      - ![image](https://user-images.githubusercontent.com/33334078/95708351-fc276500-0c96-11eb-987b-9c45122ef588.png) target terms, and how relevant those terms
         are to the item – for one
 
           - There are multiple items in one content
@@ -2706,15 +2712,13 @@ PROFESSIONAL</td>
 
       - The similarities between the two vectors of the same size
 
-      - ![A picture containing object Description automatically
-        generated](media/image32.png)How close two things are together
+      - ![image](https://user-images.githubusercontent.com/33334078/95708372-09445400-0c97-11eb-9bc0-715543ac9303.png)How close two things are together
 
       - Remember cosine similarities
 
 **CBF when user model is based on Keywords II**
 
-  - ![A close up of a logo Description automatically
-    generated](media/image33.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95708396-12cdbc00-0c97-11eb-98f3-5b686d90ffa4.png)
 
   - For the first term, it has weight w11, for second term, w12 etc
 
@@ -2814,8 +2818,7 @@ PROFESSIONAL</td>
 
       - Need some mechanism to calculate the relevance between you and I
 
-      - ![A picture containing object Description automatically
-        generated](media/image34.png)rating \* item
+      - !![image](https://user-images.githubusercontent.com/33334078/95708414-1feaab00-0c97-11eb-964b-5301ed309a8f.png) rating \* item
 
       - So calculate 0.7 \*1 + 0.7\*1 + …
 
@@ -2846,8 +2849,7 @@ ratings**
 
 **CBF when User Model is based on Facets, Values, Ratings (cont)**
 
-  - ![A close up of a piece of paper Description automatically
-    generated](media/image35.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95708666-d2bb0900-0c97-11eb-856c-5243eb5dfb61.png)
 
   - We have the user, U, with user, value and ratings
 
@@ -2855,12 +2857,13 @@ ratings**
 
   - Recommender calculates the relevance between the you and each of the
     items I1,I2, Im etc
+  - Recommend top k
 
-  - ![](media/image36.png)Recommend top k
 
 #### **CBF when user model is based on Graphs/ concepts**
 
   - **There's a graph representing the domain model**
+  - ![image](https://user-images.githubusercontent.com/33334078/95708683-dc447100-0c97-11eb-932b-de9c4be26981.png)
 
       - Concepts and links related to the content
 
@@ -2872,7 +2875,7 @@ ratings**
   - It is a taxonomy, explaining various relationships – which gives a
     hierarchy and it allows to connect things
 
-  - ![](media/image37.png)**User model**
+  - **User model**
 
       - you = (u1,u2,un)
 
@@ -2880,7 +2883,7 @@ ratings**
 
           - We have derived the positive hit of the user
 
-  - ![](media/image38.png)**Item model**
+  - **Item model**
 
       - I = (c1,c2,cn)
 
@@ -2900,8 +2903,7 @@ ratings**
 
 **CBF when User Model is based on Graphs/Concepts II**
 
-  - ![A close up of text on a white background Description automatically
-    generated](media/image39.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95708736-f9793f80-0c97-11eb-8692-3c6c140e90f4.png)
 
   - Red – items with concepts
 
@@ -3041,7 +3043,9 @@ museum experience**
 
 **Knowledge Graph: Semantically Enriched Museum Data**
 
-  - ![](media/image40.png)Behind this system – knowledge based.
+  - ![image](https://user-images.githubusercontent.com/33334078/95708763-0f870000-0c98-11eb-990f-e134cfd54c58.png)
+
+  - Behind this system – knowledge based.
 
   - First component before developing personalised app, is the
     **knowledge**
@@ -3242,7 +3246,8 @@ museum experience**
 
       - This is the input of the system
 
-![](media/image41.png)**CF – how does it work?**
+**CF – how does it work?**
+  - ![image](https://user-images.githubusercontent.com/33334078/95708791-20377600-0c98-11eb-919b-13e6161144f3.png)
 
   - Steps
 
@@ -3260,7 +3265,8 @@ museum experience**
 
       - How you process the input data to come up w the user
 
-![](media/image42.png)**Step 1 – Represent input data**
+**Step 1 – Represent input data**
+  - ![image](https://user-images.githubusercontent.com/33334078/95708811-2d546500-0c98-11eb-899b-012da6a0fed5.png)
 
   - First step is to **prepare the input data** – usually a matrix.
 
@@ -3301,7 +3307,8 @@ museum experience**
   - Sometimes referred as: **K-nearest neighbour user-user collaborative
     filtering**
 
-![](media/image43.png)**Step 2.1 – Calculate similarity**
+**Step 2.1 – Calculate similarity**
+  - ![image](https://user-images.githubusercontent.com/33334078/95708903-70aed380-0c98-11eb-9bd7-e443b8b85451.png)
 
   - Similarity between our user and all the other user –
 
@@ -3313,8 +3320,8 @@ museum experience**
 
       - We looking for the **? part**
 
-      - Sim (u3,u1) = ![A picture containing object Description
-        automatically generated](media/image32.png)
+      - Sim (u3,u1) = ![image](https://user-images.githubusercontent.com/33334078/95708869-5e349a00-0c98-11eb-9b5c-f3c80150a788.png)
+
 
       - Sim = 25+3+4+15+0+0 / (sqrt(25+1+16+25+0+25) \*
         sqrt(25+9+1+9+16+0))
@@ -3322,9 +3329,9 @@ museum experience**
   - Question – if u3 = (5,0,0,0,0) and u1 = (0,1,0,0,0,) what do we do?
     → neighbour
 
-![](media/image44.png)
 
 **Step 2.2. Define neighbourhood**
+  - ![image](https://user-images.githubusercontent.com/33334078/95708911-79070e80-0c98-11eb-8756-e1ad7ce93959.png)
 
   - How to take neighbourhood given the users and similarities between
     them
@@ -3349,7 +3356,8 @@ museum experience**
   - Q - I know we’ll take 0,2, and 4 (from prev. slide) do we take the
     weighted value or average?
 
-  - ![](media/image45.png)**Weighted sum**
+  - **Weighted sum**
+      - ![image](https://user-images.githubusercontent.com/33334078/95708926-82907680-0c98-11eb-8f7d-b6b29f482a24.png)
 
       - Scans the neighbourhood and calculates the frequency for each
         item
@@ -3409,9 +3417,9 @@ museum experience**
 
       - Considers the opinions of wide spectrum of users
 
-![](media/image46.png)
 
 **Item-item collaborative filtering**
+- ![image](https://user-images.githubusercontent.com/33334078/95708951-920fbf80-0c98-11eb-9816-4c132c165553.png)
 
 1.  Get the users and other users.
 
@@ -3426,10 +3434,11 @@ museum experience**
 
   - Now we are looking for items, rather than the user
 
-  - ![](media/image47.png)We prepare the matrix with user and item the
+  - We prepare the matrix with user and item the
     same way.
 
 **Item-Item collaborative filtering**
+  - ![image](https://user-images.githubusercontent.com/33334078/95708975-a358cc00-0c98-11eb-8191-2228ba3c448d.png)
 
   - Item that I need to think about = I3 = (0,1,?,2,1,4)
 
@@ -3444,8 +3453,8 @@ museum experience**
   - Most similar is I4, I5, I7 – then we come up with the **weighted
     sum**
 
-      - ![A picture containing knife Description automatically
-        generated](media/image48.png)
+      - ![image](https://user-images.githubusercontent.com/33334078/95709047-c5524e80-0c98-11eb-8147-215ca4fd324b.png)
+
 
 **Discuss the results: 2.62 vs 4.62**
 
@@ -3489,8 +3498,9 @@ museum experience**
 
               - > \+ when the user item is big, its very fast
 
-![](media/image49.png)**E.g. Amazon item-item collaborative filtering –
+**E.g. Amazon item-item collaborative filtering –
 to address scalability**
+  - ![image](https://user-images.githubusercontent.com/33334078/95709061-cdaa8980-0c98-11eb-8d91-b56041a3cc14.png)
 
   - With this sparse data, instead of doing the whole calculation
 
@@ -3512,8 +3522,9 @@ to address scalability**
 
 **Step 2. Find items bought by these identified customers and register
 pairs of items**
+  - ![image](https://user-images.githubusercontent.com/33334078/95709100-e3b84a00-0c98-11eb-9645-7db7e3e2b1cf.png)
 
-  - ![](media/image50.png)Now we start to look at similarities – we need
+  - Now we start to look at similarities – we need
     to reduce the number of similarity calculation
 
       - We register pairs based on common purchases of items.
@@ -3523,14 +3534,14 @@ pairs of items**
   - Have user 3. Found that U3 has similarity with u1 as they bought one
     similar item → so by comparing u1 and u3, we calc:
 
-      - ![A screenshot of a cell phone Description automatically
-        generated](media/image51.png)
+      - ![image](https://user-images.githubusercontent.com/33334078/95709131-f763b080-0c98-11eb-8655-04091dfd6302.png)
+
 
   - By reducing the search space, only need to calc 4 to find the most
     similar
 
-![](media/image52.png)**Step 3. Calculate similarity between user items
-in pairs & recommend the most similar**
+**Step 3. Calculate similarity between user items in pairs & recommend the most similar**
+  - ![image](https://user-images.githubusercontent.com/33334078/95709147-0185af00-0c99-11eb-9eca-e545f164a5bd.png)
 
   - Sim between u3 and the rest of the item, and find out what's the
     most similar to that. Then calc the similarity from the pairs
@@ -3622,7 +3633,8 @@ in pairs & recommend the most similar**
   - Based on how other people have chosen, It helps you recommend it –
     no need to know about the content
 
-![](media/image53.png)**Sources for recommendations**
+**Sources for recommendations**
+  - ![image](https://user-images.githubusercontent.com/33334078/95709168-1104f800-0c99-11eb-84f2-4f31bf172e2c.png)
 
   - Now taking the decision which algo to use – its not straightforward
     what to choose.
@@ -3715,8 +3727,8 @@ in pairs & recommend the most similar**
 
 **Comparing recommender algorithms**
 
-![A screenshot of a cell phone Description automatically
-generated](media/image54.png)
+![image](https://user-images.githubusercontent.com/33334078/95709202-2417c800-0c99-11eb-9c59-382aa1dfc854.png)
+
 
   - Utility – what is the benefit for the user? And it recommends the
     most efficient or the best choice
@@ -3727,8 +3739,7 @@ generated](media/image54.png)
 
 **Pros and cons of recommender algorithms**
 
-![A screenshot of a cell phone Description automatically
-generated](media/image55.png)
+![image](https://user-images.githubusercontent.com/33334078/95709218-2c700300-0c99-11eb-9a6c-f924ad5a92e4.png)
 
   - Algo in particular context and you need to point out strength and
     weakness of algo
@@ -3783,8 +3794,8 @@ generated](media/image55.png)
   - Netflix took 800 and took the average in the second round. In the
     first round they analysed all the algorithms
 
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image56.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95709236-3560d480-0c99-11eb-903b-93293e0ddf68.png)
+
 
 <!-- end list -->
 
@@ -3803,8 +3814,7 @@ generated](media/image55.png)
 
   - If we have the weights, it simply computes the **weighted sum**
 
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image57.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95709270-47427780-0c99-11eb-9fec-272263472294.png)
 
   - Pro - All of the systems capabilities are brought to bear in an easy
     way
@@ -3833,8 +3843,7 @@ generated](media/image55.png)
   - Crucial is that we need a very good understanding of how each algos
     work and which is the best in the current context
 
-  - ![A screenshot of a social media post with text and people in the
-    background Description automatically generated](media/image58.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95709295-4f9ab280-0c99-11eb-897b-a9ce09bc83c9.png)
 
   - Cons – does not avoid the ramp up problem. Also for daily Learner’s
     model, the short term model is always used first and other comes in
@@ -3864,8 +3873,8 @@ generated](media/image55.png)
   - Another crucial is that the recommendations shouldn’t be too controversial need
     coherence in the recs
 
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image59.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95709306-57f2ed80-0c99-11eb-8e14-df3cef41d5ea.png)
+
 
   - Pro – can avoid cold start problem, niche finding property
 
@@ -3893,8 +3902,8 @@ generated](media/image55.png)
       - Then you use the strongest feature from each one, and you put
         them in a one combined algo to come up with a better algo
 
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image60.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95709322-5fb29200-0c99-11eb-87c0-11a71173f5ee.png)
+
 
 <!-- end list -->
 
@@ -3913,8 +3922,7 @@ generated](media/image55.png)
   - Usually works when we are considering all possible items, rather
     than one single item until we come up with most refined
 
-  - ![A screenshot of a cell phone Description automatically
-    generated](media/image61.png)
+  - ![image](https://user-images.githubusercontent.com/33334078/95709336-680acd00-0c99-11eb-91ae-8c62592e5694.png)
 
   - Pro – prioritizes the results of 2 recommenders → more efficient and
     tolerant to noise of low priority techniques
