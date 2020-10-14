@@ -328,7 +328,7 @@
     skills.
 
 2.  Also need to take into account not only what comes in but
-    <span class="underline">what you are going to look in the user
+    <span style="text-decoration:underline">what you are going to look in the user
     model</span> (**user model representation**)– which part is related
     to my user model
 
@@ -452,7 +452,7 @@
         tags/ concepts are mentioned in the document
 
   - Once semantic tagging is done, you have extracted in each document
-    you are counting <span class="underline">how often a particular
+    you are counting <span style="text-decoration:underline">how often a particular
     concept has appeared</span>**.**
 
   - Then you can decide on the overlay. This is the graph-based profile
@@ -1515,8 +1515,8 @@ PROFESSIONAL</td>
   - E.g. How our stereotypes could be put into relationships -
     **contradictions**
 
-      - Slightly to be <span class="underline">professional</span> and
-        slightly to be <span class="underline">married with kids</span>
+      - Slightly to be <span style="text-decoration:underline">professional</span> and
+        slightly to be <span style="text-decoration:underline">married with kids</span>
 
       - will produce same facet and value with two different rating
 
@@ -1638,7 +1638,7 @@ PROFESSIONAL</td>
 
       - Also need to know where to direct the user to
 
-      - Also brings in <span class="underline">external world
+      - Also brings in <span style="text-decoration:underline">external world
         knowledge</span> – so that you can be more precise about
         recommending
 
@@ -1694,7 +1694,7 @@ PROFESSIONAL</td>
   - Correspondences between the user profile and what you know about the
     content
 
-  - <span class="underline">Analogy: give me the content that I would
+  - <span style="text-decoration:underline">Analogy: give me the content that I would
     like</span>
 
 **Content-based filtering II**
@@ -1773,8 +1773,8 @@ PROFESSIONAL</td>
 
 1.  When the user interacts through the interface,
     you have a clever way of **obtaining the user model** – through
-    <span class="underline">explicit</span> by asking the user and
-    <span class="underline">implicit</span> by analysing the interaction
+    <span style="text-decoration:underline">explicit</span> by asking the user and
+    <span style="text-decoration:underline">implicit</span> by analysing the interaction
 
 2.  Then you have to have a **description of the content** – do I have
     the description? Is this reliable? Anything else I need?
@@ -3599,7 +3599,7 @@ pairs of items**
 
           - Complicated, but this is where AI comes in
 
-**<span class="underline">Part 1 – Static approaches</span>**
+**<span style="text-decoration:underline">Part 1 – Static approaches</span>**
 
 **Adaptive content presentation – two steps**
 
@@ -3640,7 +3640,7 @@ pairs of items**
     resources**
 
   - **Adaptive navigational structure -** All the pages possible for
-    showing is shown in the <span class="underline">navigation</span>
+    showing is shown in the <span style="text-decoration:underline">navigation</span>
 
       - ![](media/image77.png)Colour – indicates the pages that are
         suitable for the user
@@ -3732,7 +3732,7 @@ pairs of items**
         accessibility
 
   - Fragments are **selected based on user model**, which has
-    <span class="underline">user knowledge, interest, but also the
+    <span style="text-decoration:underline">user knowledge, interest, but also the
     user’s cognitive and visual abilities</span>
 
       - If they have vision impairments, need to increase the size, more
@@ -3857,7 +3857,7 @@ pairs of items**
 → even the most flexible approach, altering fragments, suffer from
 having to define the conditions when content is used
 
-**<span class="underline">Part 2 – Dynamic approaches</span>**
+**<span style="text-decoration:underline">Part 2 – Dynamic approaches</span>**
 
 **Dynamic approaches– two steps**
 
