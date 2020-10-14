@@ -13,11 +13,11 @@ date: 2020-10-12
 | Chapter                        | Sub-Chapter                                           | Level |
 | ------------------------------ | ----------------------------------------------------- | ----- |
 | **Arrays**                     | [2D Arrays](https://github.com/chaerim-kim/HackerRank/blob/master/1.Arrays/1.12D%20Array.py) | 1 |
-|                                | [Arrays: Left Rotation]((https://github.com/chaerim-kim/HackerRank/blob/master/1.Arrays/1.2Left%20Rotation.py) | 1 |
+|                                | [Arrays: Left Rotation](https://github.com/chaerim-kim/HackerRank/blob/master/1.Arrays/1.2Left%20Rotation.py) | 1 |
 |                                | [New Year Chaos](https://github.com/chaerim-kim/HackerRank/blob/master/1.Arrays/1.3NewYearChaos.py) | 2 |
 |                                | [Minimum Swaps 2](https://github.com/chaerim-kim/HackerRank/blob/master/1.Arrays/1.4minimumSwaps.py) | 2 |
 |                                | Array Manipulation                                    | 3     |
-| **Dictionaries and Hashmaps**  | Ransom Note                                           | 1     |
+| **Dictionaries and Hashmaps**  | [Ransom Note](https://github.com/chaerim-kim/HackerRank/blob/master/2.Dictionaries%20and%20Hashmaps/2.1RansomNote.py)| 1 |
 |                                | Two Strings                                           | 1     |
 |                                | Sherlock and Anagrams                                 | 2     |
 |                                | Count Triplets                                        | 2     |
