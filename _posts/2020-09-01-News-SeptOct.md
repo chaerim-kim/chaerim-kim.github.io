@@ -18,8 +18,9 @@ date: 2020-09-01
 8. [Trends Continue to Push Processing to the Edge for AI](#trends-continue-to-push-processing-to-the-edge-for-ai)   
 9. [Google reveals Mineral crop-inspecting robots](#google-reveals-mineral-crop-inspecting-robots)   
 10. [U.S. government agencies to use AI to cull and cut outdated regulations](#u-s-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations)  
-11. [Mysterious 'Robin Hood' hackers donating stolen money](#mysterious-robin-hood-hackers-donating-stolen-money)
-12. [WhatsApp to offer in-app purchases, cloud hosting services](#whats-app-to-offer-in-app-purchases-cloud-hosting-services)
+11. [Mysterious 'Robin Hood' hackers donating stolen money](#mysterious-robin-hood-hackers-donating-stolen-money)   
+12. [WhatsApp to offer in-app purchases, cloud hosting services](#whats-app-to-offer-in-app-purchases-cloud-hosting-services)   
+13. [Police are using facial recognition for minor crimes](#Police are using facial recognition for minor crimes)   
 
 
 ## [September 1st, 2020]
@@ -209,16 +210,18 @@ date: 2020-09-01
 - [Link to the article](https://www.reuters.com/article/us-facebook-whatsapp-ecommerce/whatsapp-to-offer-in-app-purchases-cloud-hosting-services-idUSKBN2771W9)
 
 
-## [October 25th, 2020]
+## [October 26th, 2020]
 
-##  
-- **Who:**  
-- **What:**  
-- **When:**  
+##  Police are using facial recognition for minor crimes
+- **Who:**  Cities all across the US
+- **What:**  Facial recognition has different regulations across the cities in the US as there are no government measures. As facial recognition continues to grow, it's being routinely deployed for everything from shoplifting to graffiti.
+- **When:**  October 9th, 2020
 - **Why:**  
-- **How:**  
-- **So?:**  
-- [Link to the article]()
+  - Because of privacy and the intrusiveness of a facial recognition, there's debate among technology companies, lawmakers and civil rights groups on where to draw the line.
+  - However, when it's able to be used without limits by police departments, the technology increases the chances of mistakes and threatens privacy.
+- **How:**  Portland, Oregon are only limiting the use of facial recognition from police use, whereas police in New York have been able to use the technology for crimes like shoplifting.
+- **So?:**  Some argue that there should be a full ban of the technology to prevent the potential false arrests, while some argues to limit facial recognition to serious felonies as it could damage people's privacy in the long run.
+- [Link to the article](https://www.cnet.com/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/)
 
 
 ## [October 27th, 2020]
