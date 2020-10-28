@@ -20,7 +20,10 @@ date: 2020-09-01
 10. [U.S. government agencies to use AI to cull and cut outdated regulations](#u-s-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations)  
 11. [Mysterious 'Robin Hood' hackers donating stolen money](#mysterious-robin-hood-hackers-donating-stolen-money)   
 12. [WhatsApp to offer in-app purchases, cloud hosting services](#whats-app-to-offer-in-app-purchases-cloud-hosting-services)   
-13. [Police are using facial recognition for minor crimes](#Police are using facial recognition for minor crimes)   
+13. [Police are using facial recognition for minor crimes](#police-are-using-facial-recognition-for-minor-crimes)    
+14. [Biggest global deals in the fast-growing chip industry](#biggest-global-deals-in-the-fast-growing-chip-industry)  
+
+
 
 
 ## [September 1st, 2020]
@@ -226,14 +229,19 @@ date: 2020-09-01
 
 ## [October 27th, 2020]
 
-##  
-- **Who:**  
-- **What:**  
-- **When:**  
-- **Why:**  
+##  Biggest global deals in the fast-growing chip industry
+- **Who:**  Multiple chipmaker companies
+- **What:**  They are buying a rival chipmaker companies to seek a larger share of the lucrative data center chip market. The sector has seen at least 120 acquisitions with a minimum deal value of $1 billion in the last two decades, according to Refinitiv data.
+  - Semiconductor companies design and/or manufacture computer chips and related components.
+- **Why:**  As chipmakers stock up on ammunition to supply to an ever-growing Internet of Things, which connects everything from smart speakers to cars with processors.
 - **How:**  
-- **So?:**  
-- [Link to the article]()
+  - Nvidia Corp NVDA.O agreed to buy UK-based chip designer Arm from Japan's Softbank Group Corp 9984.T for about $40 billion in September 2020.
+  - Chip developer Avago Technologies Ltd AVGO.O bought semiconductor giant Broadcom Corp BRCM.O for $37 billion, a deal that was completed in February 2016.
+  - Softbank Group 9984.T acquired UK-based chip designer Arm in 2016 for $30.75 billion.
+  - Intel Corp INTC.O bought rival Altera Corp for $15.33 billion in 2015.
+  - Germany's Infineon Technologies IFXGn.DE completed its $10 billion acquisition of Cypress Semiconductor Corp in April.
+- **So?:**  The chipmakers are stocking up on ammunition as the companies that manufacture semiconductors are prospering in connected era like now.
+- [Link to the article](https://www.reuters.com/article/us-xilinx-m-a-amd-factbox/factbox-biggest-global-deals-in-the-fast-growing-chip-industry-idUSKBN27C1H5)
 
 
 ## [October 29th, 2020]
