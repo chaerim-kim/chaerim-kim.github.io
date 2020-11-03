@@ -1,5 +1,5 @@
 ---
-title: "September Technology News"
+title: "September/ October Technology News"
 tags: [Daily News]
 categories:
   - Daily News
