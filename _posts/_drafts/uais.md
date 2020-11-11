@@ -42,632 +42,15 @@
 
 
 
-
-
-## **Recommender systems (Part 1) – Knowledge-based recommenders**
-
-**The CHIP Project - bridging the gap between virtual and physical
-museum experience**
-
-  - Rijksmuseum Amsterdam offers
-
-      - 7000 artworks in the museum
-
-      - 50000 artworks online
-
-  - They have broad pool of users – schools, students, normal people
-    have everything required for recommender system
-
-**Vision: Personal museum guide in your pocket**
-
-  - They decided to work together with the scientists and was looking at
-    how people go through this massive
-
-  - Need to come up with a vision when creating the project – what will
-    you add to the user experience
-
-      - Came out with the idea of **personal museum guid**e – When you
-        go to a museum you can have a personal guide and the guide
-        creates a narrower museum
-
-      - \- But doesn’t scale and not tailored to various types of users
-
-      - Take the metaphor of having a personal guide and develop a
-        mobile guide
-
-  - What will a guide be? What do they do? Features of guides
-
-      - Personal guide knows about the artworks and paintings – has the
-        domain knowledge
-
-      - Ability to identify what user might be interested with, from
-        limited interactions
-
-      - Can recommend paintings and explain based on what they know
-        about the world and the user
-
-**CHIP tools**
-
-  - What are the personalisation features?
-
-  - When you are in the digital space, online mostly have recommender
-    systems
-
-      - **Art recommender -** You look at one painting and it shows
-        other thing to see and recommends you painting and information
-
-          - artworks and art concepts recommendations
-
-      - **Tour wizard -** In the virtual space, they can give you a tour
-        guide – not just one painting, but shows sequels of paintings
-
-          - managing and visualising museum tours
-
-      - **Mobile museum guide -** As a mobile museum tour guide –
-        identifies where you are in the museum
-
-          - guiding the user inside the museum
-
-**Knowledge Graph: Semantically Enriched Museum Data**
-
-  - ![image](https://user-images.githubusercontent.com/33334078/95708763-0f870000-0c98-11eb-990f-e134cfd54c58.png)
-
-  - Behind this system – knowledge based.
-
-  - First component before developing personalised app, is the
-    **knowledge**
-
-  - Snippet of the knowledge model – computer scientist together with
-    curators worked together to identify the core knowledge required for
-    painting rec
-
-  - They used **concepts** – graph-based models – and concepts are
-    linked with relationships and relationships are named
-
-      - Creator has place – birthplace and deathplace
-
-  - Have implicit relationships - Once you have the knowledge base, you
-    can infer
-
-      - Can infer style of the author, painting etc bc there's a
-        connection
-
-  - Powerful knowledge model that tells about the world but this is NOT
-    the recommender. Now need to bring this to the recommender
-
-**Discovering connections via reasoning**
-
-  - How can you bring this external knowledge to help you to explore the
-    paintings
-
-  - Based on the metadata mapped with the external knowledge, you can
-    bring other paintings bc they share some similarities with the same
-    metadata
-
-      - Having the knowledge model allows you to bring the content to
-        filter what the most relevant is to the painting
-
-  - Eg
-
-      - Painting has relation to other 2 painters (teacher, student etc)
-
-      - Painting showing portrait, military scenes etc
-
-      - Exploring all different aspects by looking at one painting, due
-        to the relationships
-
-      - Not personalised, but it enriches the space
-
-  - Can talk about much smaller pool to recommend to the user. Still
-    need to evaluate what's relevant to the user user model comes in.
-
-  - Then you need to think about mapping the content and the user model
-
-**User profile building**
-
-  - Problem with cold start – need to know about the user and map the
-    user to the content
-
-  - How you gonna create the user profile?
-
-      - Can look at the browsing history of the user and rate the things
-
-      - But in the first instance, when user enters the system, gotta
-        know where – this case they ask **explicitly** to rate the
-        paintings.
-
-      - It is not random paintings; it is selected in a way that diff
-        area of the knowledge graph is being identified
-
-  - Gives user model and we think you’d be interested in these topics –
-    all that is the top categories under the knowledge model
-
-      - End up with showing the user a list of keywords that they are
-        interested in
-
-      - It can tell me **why**\! Based on which rating and why has it
-        inferred that I might be interested in x
-
-  - Cold start is solved by **explicit rating** ‼
-
-  - Use model now has = graph of user interests + graphs with painting
-    information - overlap
-
-**Art recommender**
-
-  - They are looking at similarity metrics
-
-  - They have to decide if this painting is gonna interest the user –
-    how similar this is to user parameter
-
-      - How you map user model to the painting model for each of the
-        painting
-
-  - And based on that it decides how its gonna recommend – it shows the
-    **relevance** of the painting
-
-      - All the descriptions of the painting and some weight, to what
-        extent it is related to the user (which user already approved)
-
-      - You can map directly the user characteristics; but you can look
-        further - How much you are propagating with thin the graph,
-        given the concept about the painting within the graph
-
-  - Also recommends other artwork that is related to the PAININTG not
-    the user – give diversity but still relevance
-
-**Artwork description**
-
-  - Once you have the knowledge, can automatically generate description
-    of the painting with the metadata
-
-  - Then decide within the description, what to show as important and
-    what to suppress another level of personalisation ‼
-
-      - Knowledge model allows to do that as it identifies parameters
-        and it amplifies the important info more
-
-  - Knowledge allows:
-
-      - To describe **why** something has been recommended
-
-      - Allows you to diversify and to recommends other paintings
-
-      - Allow you to automatically generate description that is tailored
-        to the user (CBF won't allow this)
-
-**Summary: Knowledge based filtering**
-
-  - Need to get a good knowledge graph to implement the recommender
-
-  - They build on content-based filtering – user profile and information
-    about the content
-
-  - But to bring in the **knowledge model of the world**
-
-  - Content, user AND knowledge – powerful
-
-  - Main advantage - reasoning\!\!
-
-      - You can infer things – and user tend to trust the
-        recommendations that way
-
-      - Can diversify experience
-
-  - Main limitation
-
-      - We still have the cold start problem
-
-      - Need to prepare the content and mapping
-
-  - Without the knowledge, can't do the recommender\! Time to get the
-    knowledge and to map the knowledge
-
-      -
-## **Recommender systems (Part 2) – Collaborative filtering**
-
-10.3.20
-
-  - Google - It assumes you are looking for the flight hotel and stuff
-
-      - Uses location too
-
-  - Spotify – content-based filtering – based on what you listen to, it
-    gives you more of that
-
-  - YouTube – content-based filtering – based on what you watch, gives
-    more of that
-
-**Collaborative filtering**
-
-  - Same problem – too much content and user has too many choices – how
-    do we narrow the choices and give users the right things
-
-  - In collaborative filtering:
-
-      - Need to look at **other people’s consumption.**
-
-      - Also need to have what the **user rates and** likes as well
-
-  - → give me what people similar to me would like
-
-**Collaborative filtering CF**
-
-  - Based on **user similarity** – it tries to find similar users and
-    based on that recommends it.
-
-      - You may also like this as well, people like you preferred this
-
-  - Key challenge – the rating, where does this come from?
-
-  - How to find the ratings or preferences of the user
-
-      - Explicit methods - Can explicitly ask the user to rate –
-        Netflix, amazon
-
-      - Implicit method – observing what user is doing, e.g. what they
-        buy, click, visit – gives additional info to user rating
-
-  - We are observing **every user in the system** based on either
-    explicit or implicit methods
-
-      - This is the input of the system
-
-**CF – how does it work?**
-  - ![image](https://user-images.githubusercontent.com/33334078/95708791-20377600-0c98-11eb-919b-13e6161144f3.png)
-
-  - Steps
-
-    1.  Creating user profile and created ratings for items
-
-    2.  User modelling component is, based on the user profile
-        Identifying who are the users – who’s similar to my user
-
-    3.  Take items which they liked – and recommends it
-
-    4.  User gets the recommendation back
-
-  - If we want to build a CF, which is based on user similarity →
-    user-user filtering
-
-      - How you process the input data to come up w the user
-
-**Step 1 – Represent input data**
-  - ![image](https://user-images.githubusercontent.com/33334078/95708811-2d546500-0c98-11eb-899b-012da6a0fed5.png)
-
-  - First step is to **prepare the input data** – usually a matrix.
-
-      - Have all the possible items and users of the system – matrix
-        values that indicate the voting of user 1 and item 1
-
-  - You end up with a large matrix where you indicate for the ones you
-    know, whether they liked it or not
-
-  - **Numerical values** in the matrix – can decide on the scale as
-    well. i.e. 0-1 or 0-5
-
-  - Biggest challenge
-
-      - Creating the input matric in advance – identifying what data you
-        have about the user to come up w the numbers – if you ask user
-        to rate, a lot will be empty coz they don’t rate everything
-
-      - Think about other ways of collecting info
-
-**Example**
-
-  - Identifying what we gonna recommend by rating each item for each
-    user
-
-  - I they’ve liked item 1, 5,7, hated 2,6 → which should I recommend?
-
-  - How do we apply the user-user filtering to come up with the rating
-    for an unknown cell\!\!\!\!
-
-**Step 2 – Find nearest neighbours**
-
-  - We need to find similarities across the users and then define the
-    **neighbours** that are the most similar
-
-  - How to find similarity → **cosine similarity**
-
-  - Sometimes referred as: **K-nearest neighbour user-user collaborative
-    filtering**
-
-**Step 2.1 – Calculate similarity**
-  - ![image](https://user-images.githubusercontent.com/33334078/95708903-70aed380-0c98-11eb-9bd7-e443b8b85451.png)
-
-  - Similarity between our user and all the other user –
-
-  - E.g.
-
-      - U3 = (5,1,?,4,5,0,5)
-
-      - U1 = (5,3,?,1,3,4,0)
-
-      - We looking for the **? part**
-
-      - Sim (u3,u1) = ![image](https://user-images.githubusercontent.com/33334078/95708869-5e349a00-0c98-11eb-9b5c-f3c80150a788.png)
-
-
-      - Sim = 25+3+4+15+0+0 / (sqrt(25+1+16+25+0+25) \*
-        sqrt(25+9+1+9+16+0))
-
-  - Question – if u3 = (5,0,0,0,0) and u1 = (0,1,0,0,0,) what do we do?
-    → neighbour
-
-
-**Step 2.2. Define neighbourhood**
-  - ![image](https://user-images.githubusercontent.com/33334078/95708911-79070e80-0c98-11eb-8756-e1ad7ce93959.png)
-
-  - How to take neighbourhood given the users and similarities between
-    them
-
-  - **Centre-based neighbourhood (size n)**
-
-<!-- end list -->
-
-  - → Sort them and take top n
-
-  - K = 3, so top 3 in this case.
-
-      - 0.93, 0.71 and 0.63 is the most relevant, U6,U4,U1
-
-  - Problem is when there's too many 0’s and there's no similarity
-
-**Step 3: Predictions/ recommendations**
-
-  - Now I know who the relevant user is, and we decide on the value.
-    make predictions about the user
-
-  - Q - I know we’ll take 0,2, and 4 (from prev. slide) do we take the
-    weighted value or average?
-
-  - **Weighted sum**
-      - ![image](https://user-images.githubusercontent.com/33334078/95708926-82907680-0c98-11eb-8f7d-b6b29f482a24.png)
-
-      - Scans the neighbourhood and calculates the frequency for each
-        item
-
-      - Can be combined with the rating value
-
-      - we calculate the **weighted sum**. and we are dividing by the
-        SUM of the 3\!\!\! So (0.63+0.71+0.93)
-
-      - Based on this we decide if to recommend this or not
-
-  - **Association rule recommendation**
-
-      - Expands the number of items based on association rules upon what
-        has been recommended by the neighbours
-
-**Pros and cons of user-user CF**
-
-  - **Limitation**
-
-      - **Data sparsity** – with user that hasn’t stopped much with less
-        indication, will have a lot of 0. We then have a very small user
-        base
-
-      - **Individual characteristics are not catered for** – the user is
-        just vector of numbers
-
-      - Tends to recommend **popular items** – the AI will be biased bc
-        if the item has had a lot of attention, e.g. with unrepresented
-        items, it will have a lot of zeros → Will be pushed away.
-
-          - This way we end up converging around few items
-
-      - **Privacy and trust** become important issue
-
-          - Netflix uses user-user Collab filtering – they were testing
-            their algo – by exposing data, you could guess who the user
-            is, even if they are just numbers when it becomes niche data
-
-          - We can mitigate this by getting rid of user and just doing
-            items\! next topic
-
-  - **Pros**
-
-      - It allows diversifying user experience, by getting **out of
-        filter bubble**
-
-      - Fairly easy to implement
-
-      - Widely applicable – popular in social media applications
-
-      - Starts looking at social interaction data
-
-      - Can recommend items that are not linked to the user’s earlier
-        choices → Useful for promotion – promoting new things and
-        surprises the user
-
-      - Considers the opinions of wide spectrum of users
-
-
-**Item-item collaborative filtering**
-- ![image](https://user-images.githubusercontent.com/33334078/95708951-920fbf80-0c98-11eb-9816-4c132c165553.png)
-
-1.  Get the users and other users.
-
-2.  Look at the items and find similarities between the items (not about
-    the users)
-
-3.  Based on the items, find the neighbourhood of the items
-
-4.  Then recommend
-
-<!-- end list -->
-
-  - Now we are looking for items, rather than the user
-
-  - We prepare the matrix with user and item the
-    same way.
-
-**Item-Item collaborative filtering**
-  - ![image](https://user-images.githubusercontent.com/33334078/95708975-a358cc00-0c98-11eb-8191-2228ba3c448d.png)
-
-  - Item that I need to think about = I3 = (0,1,?,2,1,4)
-
-      - I1 = (5,1,?,4,0,3)
-
-      - Sim (I3,I1) = 0.62 → **cosine similarity**
-
-      - We do this for item 3 and every other items – I1,I2,I3, etc
-
-  - Find the most similar 3 items – then take the weighted sum
-
-  - Most similar is I4, I5, I7 – then we come up with the **weighted
-    sum**
-
-      - ![image](https://user-images.githubusercontent.com/33334078/95709047-c5524e80-0c98-11eb-8147-215ca4fd324b.png)
-
-
-**Discuss the results: 2.62 vs 4.62**
-
-  - We got 2 diff values from **user-user** and **item-item**
-
-  - Q - Which do you trust more?
-
-      - Can't decide. Can have diff recommendations and you will come up
-        with diff values.
-
-          - If we change the neighbour k = 4, the value will be diff
-
-          - If we don’t use cosine similarities, it will be different
-
-  - Can we trust these values?? **evaluation** is important.
-
-      - We take several algo and benchmark them to find out what gives
-        the best result
-
-  - Not just coming up the number, but we need to **evaluate** them we
-    need hybridization of algorithms
-
-      - Precision, recall etc
-
-**Scalability problem**
-
-  - Calculating similarities of one to every one another, is the most
-    **computationally heavy.**
-
-      - > Identify where the problem is over-calculation of similarity
-        > in this case.
-
-        1.  > **Reducing the space of calculation -** May try to
-            > categorise the items and compute similarity
-
-        2.  > **Offline calculation** – we pre-calculate these and store
-            > it, and when user comes it uses that to compare.
-
-              - > \- Problem is updating db. Could lose some data during
-                > a week or so
-
-              - > \+ when the user item is big, its very fast
-
-**E.g. Amazon item-item collaborative filtering –
-to address scalability**
-  - ![image](https://user-images.githubusercontent.com/33334078/95709061-cdaa8980-0c98-11eb-8d91-b56041a3cc14.png)
-
-  - With this sparse data, instead of doing the whole calculation
-
-  - No need to do multiplications of 0.
-
-**Step 1. Find customers who have purchased the items u3 has purchased**
-
-  - We narrow down to other users who have bought that – THEN we
-    calculate **THEIR them** (with 1’s) instead of all users
-
-      - user 3 bought item 1 – u1 and u4 also bought this
-
-      - user bought item 4, - u2, u4 bought this
-
-  - → Algorithm is trying to reduce the item space
-
-  - With thousands of items, we will **significantly reduce the items of
-    interest** – in this e.g. not so shown coz i3 is the only irrelevant
-
-**Step 2. Find items bought by these identified customers and register
-pairs of items**
-  - ![image](https://user-images.githubusercontent.com/33334078/95709100-e3b84a00-0c98-11eb-9645-7db7e3e2b1cf.png)
-
-  - Now we start to look at similarities – we need
-    to reduce the number of similarity calculation
-
-      - We register pairs based on common purchases of items.
-
-  - Register pair with regards to common items
-
-  - Have user 3. Found that U3 has similarity with u1 as they bought one
-    similar item → so by comparing u1 and u3, we calc:
-
-      - ![image](https://user-images.githubusercontent.com/33334078/95709131-f763b080-0c98-11eb-8655-04091dfd6302.png)
-
-
-  - By reducing the search space, only need to calc 4 to find the most
-    similar
-
-**Step 3. Calculate similarity between user items in pairs & recommend the most similar**
-  - ![image](https://user-images.githubusercontent.com/33334078/95709147-0185af00-0c99-11eb-9eca-e545f164a5bd.png)
-
-  - Sim between u3 and the rest of the item, and find out what's the
-    most similar to that. Then calc the similarity from the pairs
-
-  - We have reduced space
-
-  - Cleve – we look at the user, narrow the search space AND narrow the
-    comparison
-
-      - Reduction in less **item** and less **pairs for comparison**\!
-
-**Collaborative filtering summary**
-
-  - Pros
-
-      - Fairly simple to implement
-
-      - Widely used in recommender systems
-
-      - Works successfully if large dataset is used
-
-      - Facilitates the exploration of long tail, which is not otherwise
-        addressed
-
-  - Challenges
-
-      - New items, new users – **cold start**
-
-      - If an item has 0000 it will never be recommended
-
-      - **Sparsity** – space of data and ways of reducing
-
-      - **Scalability** – large dataset, but we can reduce it
-
-      - **Reliability of ratings** – it is prone to subjectivity\!\!
-        **Bias\!\!**
-
-      - **Lack of transparency** – how did you come up with this rating?
-        Explaining to the user
-
-      - **Lack of control** – limited user influence on the algorithms
-
-**Apply collaborative filtering** → know how to apply \!\!\!\!\!\!\!
-
-1.  Represent data
-
-2.  Define neighbourhood
-
-3.  Make predictions or recommendations
-
 ## **Recommender systems (Part 3): Hybrid Recommenders**
 
 **Hybridization**
 
-  - Several algos giving diff results – way to combine several algos
+  - Several algos giving different results – way to combine several algos
 
   - First part of the lecture
 
-      - How to put it next to each other to decide how you gonna
+      - How to put it next to each other to decide how you going to
         hybridize
 
       - Fundamental models behind the recommendations
@@ -837,15 +220,15 @@ pairs of items**
       - Singular value decomposition- characterises each movie and user
         into vectors, in 2D
 
-  - Applying many diff models and averaging it gave the best performance
-    to reach the 10%, gotta collaborate with diff teams
+  - Applying many different models and averaging it gave the best performance
+    to reach the 10%, gotta collaborate with different teams
 
   - One problem – with some movies have very polarising movies with diff
     variance of rating
 
       - Napoleon dynamite – 1 and 5 rating
 
-  - **Average of 800 diff algorithms omG**
+  - **Average of 800 different algorithms omG**
 
   - When you have massive population of algo, but if not it might not be
     suitable
@@ -886,7 +269,7 @@ pairs of items**
   - Pro - All of the systems capabilities are brought to bear in an easy
     way
 
-  - Con – relative value of diff techniques is uniform – so items with
+  - Con – relative value of different techniques is uniform – so items with
     smaller raters will be weaker
 
 <!-- end list -->
@@ -899,12 +282,12 @@ pairs of items**
     the current situation.**
 
   - Switching – you ask for an opinion and you decide to switch base on
-    diff groups in diff context
+    different groups in different context
 
   - Important to know what exactly is the context – what media, time,
     item user is using?
 
-  - We have diff algos and depending on the user and the item, for one
+  - We have different algos and depending on the user and the item, for one
     user we recommend R1 and for another item we recommend R2 or Rn.
 
   - Crucial is that we need a very good understanding of how each algos
@@ -919,7 +302,7 @@ pairs of items**
       - Introduces additional complexity as switching criteria must be
         determined
 
-  - Pro – system can be sensitive do diff algo’s strength and weaknesses
+  - Pro – system can be sensitive do different algo’s strength and weaknesses
 
 <!-- end list -->
 
@@ -933,7 +316,7 @@ pairs of items**
   - Users can make their own choice – they see recommendations from
     content based, knowledge based etc.
 
-  - Diff algos return diff values, and for this user, we show R1 and R2
+  - different algos return different values, and for this user, we show R1 and R2
 
   - Crucial is to explain to the user, the results
 
@@ -954,7 +337,7 @@ pairs of items**
   - **Features from different recommendation data sources are thrown
     together into a single recommendation algorithm.**
 
-  - We are coming with one value, but we use diff data to come up with
+  - We are coming with one value, but we use different data to come up with
     that one value
 
   - New algorithm which can combine features from all the outputs
@@ -981,7 +364,7 @@ pairs of items**
   - **One recommender refines the recommendations given by another.**
 
   - Run one algo, and get the output, then you take it and pass it to
-    diff algos and so on, until you get the refined version
+    different algos and so on, until you get the refined version
 
   - Run A1, then you get R1. Then put R1 to A2. Then R2 is put into A3
     etc
@@ -1005,9 +388,9 @@ pairs of items**
 
   - Quite similar w/ cascade
 
-  - We look at the features of each algo we gonna use
+  - We look at the features of each algo we going to use
 
-  - Take A1, and it gives R1. Then for second, we have diff features.
+  - Take A1, and it gives R1. Then for second, we have different features.
     But we still bring in R1 in addition to the feature \! so it acts as
     an additional feature so that A2 has **broader feature scope**
 
@@ -1030,7 +413,7 @@ pairs of items**
 
   - A1 gets R1. Also look at values from a set of items. Then you used
     that in some way as additional feature, input etc meta level, coz
-    you need to think how the R1 is gonna be used cleverly as an input
+    you need to think how the R1 is going to be used cleverly as an input
     of A2
 
   - ![A screenshot of a cell phone Description automatically
@@ -1122,7 +505,7 @@ pairs of items**
 
   - **MAE** – mean absolute error
 
-      - Diff between the actual and predicted and take **absolute**
+      - different between the actual and predicted and take **absolute**
         value. Then we take the average![](media/image66.png)
 
   - **RMSE** – root mean square error
@@ -1152,7 +535,7 @@ pairs of items**
       - A – we have a algorithm for baseline, and we are tryna get a
         value better than the baseline
 
-      - Will be looking at diff metrics of the performance of the alog
+      - Will be looking at different metrics of the performance of the alog
 
 **Compare recommender algorithms**
 
@@ -1657,7 +1040,7 @@ pairs of items**
       - Red – selected, based on its applicability conditions
 
   - **Composition -** Once selected, we need algorithm which constructs
-    a page from several diff fragments together
+    a page from several different fragments together
 
   - → Have composed a page by pulling what's available from the content
     pool
@@ -1710,7 +1093,7 @@ pairs of items**
 <li><p>User may be missed – could be created when the user model isn't available yet</p></li>
 <li><p>Expensive/ time consuming – for every fragment, to create all the conditions</p></li>
 </ul></li>
-<li><p>Combined fragments may <strong>not align with one another</strong>, as it is from diff authors</p></li>
+<li><p>Combined fragments may <strong>not align with one another</strong>, as it is from different authors</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -1746,7 +1129,7 @@ pairs of items**
 
   - **Composition**
 
-      - Easier than optional, bc you can have layout of how you gonna
+      - Easier than optional, bc you can have layout of how you going to
         put the constituents
 
       - In e.g. put the red first then yellow \!\!
@@ -1764,7 +1147,7 @@ pairs of items**
       - First and second paragraph – fragments are related to the
         constituents, and pull together so user can see the page
 
-  - → Pull existing pieces of pre-defined content with diff level of
+  - → Pull existing pieces of pre-defined content with different level of
     complexity and detail
 
   - Fragments are related to
@@ -1925,7 +1308,7 @@ architect)**
     house is chosen
 
   - Based on the user preference, the selected parameter will be
-    **brought forward →** it amplifies diff factors
+    **brought forward →** it amplifies different factors
 
 <!-- end list -->
 
@@ -1966,7 +1349,7 @@ architect)**
 
 **Dynamic content presentation**
 
-  - How to adapt to diff **media factors**
+  - How to adapt to different **media factors**
 
   - **User specific factors** – visual impairments (careful of size),
     dyslexia (more images), autism (no long list of bullet points)
@@ -1988,7 +1371,7 @@ architect)**
 2 widely used approaches of dynamic content presentation
 
   - **Rule based approaches** – using rules to define how to combine
-    /choose diff type of media in which condition
+    /choose different type of media in which condition
 
       - E.g. dyslexia – structured diagrams and illustrative images \>
         long text
@@ -2041,7 +1424,7 @@ architect)**
   -
 ## **Evaluation of user adaptive systems**
 
-  - If I were to evaluate complex system how we gonna do this
+  - If I were to evaluate complex system how we going to do this
 
   - 2 ways
 
@@ -2255,7 +1638,7 @@ architect)**
             predicted about them
 
       - **Cross validation** – allows us to reshuffle the data, and we
-        train particular user and test diff users
+        train particular user and test different users
 
       - **Heuristic evaluation** – bringing the user aspect of the user
         model – we will have some criteria and we inspect the user model
@@ -2594,7 +1977,7 @@ Q – will the online exam be part of the exam?
       - Key concepts and how you apply it for this specific concept ur
         judgement here. Particular methods will have to be this
 
-      - Strength and pros – if you copy of the lecture, its not gonna
+      - Strength and pros – if you copy of the lecture, its not going to
         help. ELABORATE with the right strength and weakness for this
         particular scenario
 
@@ -2667,7 +2050,7 @@ Say the point ‼\!
 
   - Why certain things are in the model
 
-  - How you gonna personalise when you don’t have the things
+  - How you going to personalise when you don’t have the things
 
 <!-- end list -->
 
@@ -2724,7 +2107,7 @@ Say the point ‼\!
 
 1e
 
-  - We have to suggest what we gonna add
+  - We have to suggest what we going to add
 
   - E.g. social recommendation
 
