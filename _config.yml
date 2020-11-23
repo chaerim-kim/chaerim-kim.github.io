@@ -59,8 +59,6 @@ staticman:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -105,13 +103,13 @@ analytics:
 author:
   name             : "Chae Rim Kim"
   avatar           : /images/crk_avatar.JPG
-  bio              : "A Computer Science graduate at the University of Leeds"
-  location         : "Leeds, United Kingdom"
+  bio              : "Computer Science graduate from the University of Leeds"
+  location         : "Seoul, South Korea and Leeds, England"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: kcl0720@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -140,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/chaerim-kim"
+      # url: "https://github.com/chaerim-kim"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
