@@ -40,6 +40,7 @@
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
+    margin-bottom: 0.5em;
   }
 }
 
@@ -73,7 +74,6 @@
 }
 
 .archive__item-excerpt {
-  margin-top: 0;
   font-size: $type-size-6;
 
   & + p {
