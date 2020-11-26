@@ -83,8 +83,11 @@ body {
 }
 
 .page__content {
+  h1 {
+    padding: 1.4em 0em 0.1em;
+  }
   h2 {
-    padding-bottom: 0.5em;
+    padding: 1.4em 0em 0.1em;
     border-bottom: 1px solid $border-color;
   }
 
@@ -113,7 +116,7 @@ body {
 
   /* paragraph indents */
   p {
-    margin: 2.4em 0 1.0em;
+    margin: 1.0em 0 1.0em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -123,6 +126,8 @@ body {
       }
     }
   }
+
+
 
   a:not(.btn) {
     &:hover {
