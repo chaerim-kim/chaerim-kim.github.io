@@ -6,3 +6,29 @@ main:
     url: /categories/
   # - title: "Tags"
   #   url: /tags/
+
+# the sidebar menu
+docs:
+  - title: Study
+    children:
+      - title: "Distributed Systems"
+        url: /distributed%20systems/DS-0TOC/
+      - title: "Recommender Systems"
+        url: /recommender%20systems/RS-0TOC/
+      - title: "Secure Computing"
+        url: /secure%20computing/SC-0TOC/
+      - title: "Machine Learning"
+        url: /machine%20learning/ML-0TOC/
+
+  - title: Data Structures and Algorithms
+    children:
+      - title: "Interview Preparation"
+        url: /categories/#interview-preparation
+      - title: "HackerRank Coding Challenges"
+        url: /hackerrank/HackerRank/
+
+  - title: CS Papers
+    url: /categories/#cs-papers/
+    
+  - title: Daily Tech News
+    url: /daily%20tech%20news/News-about/
