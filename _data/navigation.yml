@@ -2,10 +2,29 @@
 main:
   - title: "About"
     url: /about/
+  - title: Study
+    sublinks:
+      - title: "Distributed Systems"
+        url: /distributed%20systems/DS-0TOC/
+      - title: "Recommender Systems"
+        url: /recommender%20systems/RS-0TOC/
+        
+  - title: Data Structures and Algorithms
+    sublinks:
+      - title: "Interview Preparation"
+        url: /categories/#interview-preparation
+      - title: "HackerRank Coding Challenges"
+        url: /hackerrank/HackerRank/
+
+  - title: ETC
+    sublinks:
+      - title: CS Papers
+        url: /categories/#cs-papers/
+      - title: Daily Tech News
+        url: /daily%20tech%20news/News-about/
+
   - title: "Categories"
     url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
 
 # the sidebar menu
 docs:
@@ -29,6 +48,6 @@ docs:
 
   - title: CS Papers
     url: /categories/#cs-papers/
-    
+
   - title: Daily Tech News
     url: /daily%20tech%20news/News-about/
