@@ -489,7 +489,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid #f2f3f3;
 }
 
 /*
@@ -511,6 +511,7 @@
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
+    border-bottom: 1px solid #f2f3f3;
   }
 
   // Scrollspy marks toc items as .active when they are in focus
