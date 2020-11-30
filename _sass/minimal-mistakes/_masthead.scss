@@ -28,7 +28,7 @@
     font-family: $sans-serif-narrow;
     /* devinlife : 메뉴바 텍스트 설정 */
     font-size: $type-size-4;
-    font-weight: bold;
+    // font-weight: bold;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
