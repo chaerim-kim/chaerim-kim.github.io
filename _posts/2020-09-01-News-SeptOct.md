@@ -1,12 +1,12 @@
 ---
 title: "September/ October Technology News"
-tags: [Daily News]
+tags: [Daily Tech News]
 categories:
-  - Daily News
+  - Daily Tech News
 date: 2020-09-01
 ---
 
-## **September/ October's Technology Updates**
+## **September/ October's Tech Updates**
 
 1. [Amazon's surveillance can boost output and possibly limit unions: study](#amazons-surveillance-can-boost-output-and-possibly-limit-unions-study)   
 2. [Bermuda Dives Deeper Into Crypto With Stimulus Coin Test Program](#bermuda-dives-deeper-into-crypto-with-stimulus-coin-test-program)    

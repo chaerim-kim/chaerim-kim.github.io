@@ -1,20 +1,20 @@
 ---
-title: "August News"
-tags: [Daily News]
+title: "August Technology News"
+tags: [Daily Tech News]
 categories:
-  - Daily News
+  - Daily Tech News
 date: 2020-08-01
 ---
 
-## **August's Updates**
+## **August's Tech Updates**
 
-[1. Coronavirus accelerates European utilities' digital drive](#coronavirus-accelerates-european-utilities-digital-drive)   
-[2. Google turns Android phones into earthquake sensors; California to get alerts](#google-turns-android-phones-into-earthquake-sensors-california-to-get-alerts)  
-[3. Coronavirus: England's contact-tracing app gets green light for trial](#coronavirus-englands-contact-tracing-app-gets-green-light-for-trial)  
-[4. Amazon launches online pharmacy in India](#amazon-launches-online-pharmacy-in-india)  
-[5. Uber ex-security boss accused of covering up hack attack](#uber-ex-security-boss-accused-of-covering-up-hack-attack)  
-[6. Carmakers urge FTC to fight Qualcomm ruling](#carmakers-urge-ftc-to-fight-qualcomm-ruling)    
-[7.As fintech upends banking, Japan regulator expects more cross-boundary tie-ups](#as-fintech-upends-banking-japan-regulator-expects-more-cross-boundary-tie-ups)  
+1. [Coronavirus accelerates European utilities' digital drive](#coronavirus-accelerates-european-utilities-digital-drive)   
+2. [Google turns Android phones into earthquake sensors; California to get alerts](#google-turns-android-phones-into-earthquake-sensors-california-to-get-alerts)  
+3. [Coronavirus: England's contact-tracing app gets green light for trial](#coronavirus-englands-contact-tracing-app-gets-green-light-for-trial)  
+4. [Amazon launches online pharmacy in India](#amazon-launches-online-pharmacy-in-india)  
+5. [Uber ex-security boss accused of covering up hack attack](#uber-ex-security-boss-accused-of-covering-up-hack-attack)  
+6. [Carmakers urge FTC to fight Qualcomm ruling](#carmakers-urge-ftc-to-fight-qualcomm-ruling)    
+7. [As fintech upends banking, Japan regulator expects more cross-boundary tie-ups](#as-fintech-upends-banking-japan-regulator-expects-more-cross-boundary-tie-ups)  
 
 
 ## [August 11th, 2020]
