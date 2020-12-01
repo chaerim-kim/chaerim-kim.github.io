@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "Projects"
     sublinks:
-      - title: "UniCycle"
-        url: /projects/Unicycle/
       - title: "Edge Computing"
         url: /projects/edge-computing/
+      - title: "UniCycle"
+        url: /projects/Unicycle/
       - title: "Leeds Inspired Search"
         url: /projects/leeds-inspired/
       - title: "User Management System"
