@@ -3,7 +3,19 @@ main:
   - title: "About"
     url: /about/
   - title: "Projects"
-    url: /projects/
+    sublinks:
+      - title: "UniCycle"
+        url: /projects/Unicycle
+      - title: "Rate & View Professors"
+        url: /projects/rate-and-view/
+      - title: "Leeds Inspired Search"
+        url: /projects/leeds-inspired/
+      - title: "Crawl & Search"
+        url: /projects/Crawl-and-search/
+      - title: "OpenGL Leeds"
+        url: /projects/OpenGL-leeds/
+
+
   - title: Study
     sublinks:
       - title: "Distributed Systems"
