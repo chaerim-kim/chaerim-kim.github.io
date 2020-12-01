@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /projects/
   - title: Study
     sublinks:
       - title: "Distributed Systems"
@@ -32,6 +34,8 @@ main:
 
 # the sidebar menu
 docs:
+  - title: Projects
+    url: /projects/
   - title: Study
     children:
       - title: "Distributed Systems"
