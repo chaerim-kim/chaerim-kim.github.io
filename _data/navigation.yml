@@ -5,15 +5,21 @@ main:
   - title: "Projects"
     sublinks:
       - title: "UniCycle"
-        url: /projects/Unicycle
-      - title: "Rate & View Professors"
-        url: /projects/rate-and-view/
+        url: /projects/Unicycle/
+      - title: "Edge Computing"
+        url: /projects/edge-computing/
       - title: "Leeds Inspired Search"
         url: /projects/leeds-inspired/
-      - title: "Crawl & Search"
-        url: /projects/Crawl-and-search/
+      - title: "User Management System"
+        url: /projects/user-management-sys/
+      - title: "Rate & View Professors"
+        url: /projects/rate-and-view/
       - title: "OpenGL Leeds"
         url: /projects/OpenGL-leeds/
+      - title: "Crawl & Search"
+        url: /projects/Crawl-and-search/
+      - title: "Convolutional Neural Network"
+        url: /projects/Convolutional-Neural-Network/
 
 
   - title: Study
