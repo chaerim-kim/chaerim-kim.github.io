@@ -1,6 +1,7 @@
 ---
 title: "Crawl and Search"
 tags: [Projects]
+permalink: /projects/Crawl-and-search/
 categories:
   - Projects
 header:

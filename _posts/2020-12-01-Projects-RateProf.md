@@ -1,6 +1,7 @@
 ---
 title: "Rate and View Professors"
 tags: [Projects]
+permalink: /projects/rate-and-view/
 categories:
   - Projects
 header:
