@@ -1,11 +1,11 @@
 ---
 title: "Edge Computing Simulation"
-tags: [Projects]
+tags: [Projects, Edge Computing]
 permalink: /projects/edge-computing/
 categories:
   - Projects
 header:
-  overlay_image: /assets/images/empty-header.jpg/
+  overlay_image: /assets/images/3.EC-header.jpg/
   overlay_filter: rgba(0,0,0,0.2)
   actions:
     - label: "Project Github"
