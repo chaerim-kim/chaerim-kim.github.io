@@ -1,10 +1,11 @@
 ---
 title: "Leeds Inspired Web Search"
 tags: [Projects]
+permalink: /projects/leeds-inspired/
 categories:
   - Projects
 header:
-  overlay_image: /assets/images/1.Unicycle-header.jpg
+  overlay_image: /assets/images/2.LeedsInsp-header.jpg
   overlay_filter: rgba(0,0,0,0.2)
   actions:
     - label: "Project Github"
