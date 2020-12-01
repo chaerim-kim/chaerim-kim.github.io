@@ -1,7 +1,6 @@
 ---
 title: "Leeds Inspired Web Search"
 tags: [Projects]
-permalink: /projects/
 categories:
   - Projects
 header:
