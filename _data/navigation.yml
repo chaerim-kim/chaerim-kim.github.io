@@ -8,7 +8,11 @@ main:
         url: /distributed%20systems/DS-0TOC/
       - title: "Recommender Systems"
         url: /recommender%20systems/RS-0TOC/
-        
+      - title: "Secure Computing"
+        url: /secure%20computing/SC-0TOC/
+      - title: "Machine Learning"
+        url: /machine%20learning/ML-0TOC/
+
   - title: Data Structures and Algorithms
     sublinks:
       - title: "Interview Preparation"
