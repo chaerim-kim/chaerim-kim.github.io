@@ -173,7 +173,7 @@ body {
 
   &--overlay {
     position: relative;
-    margin-bottom: 2em;
+    // margin-bottom: 2em;
     padding: 3em 0;
     @include clearfix;
     background-size: cover;
@@ -198,12 +198,18 @@ body {
     }
 
     .page__title,
-    .page__meta,
     .page__lead,
+    .page__meta,
     .btn {
       color: #fff;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
+
+    // .page__meta{
+    //   color: rgba(0, 0, 0, 0.7);
+    //   text-shadow: none;
+    // }
+
 
     .page__lead {
       max-width: $medium;
