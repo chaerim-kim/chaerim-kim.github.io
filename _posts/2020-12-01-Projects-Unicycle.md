@@ -7,9 +7,10 @@ categories:
 header:
   overlay_image: /assets/images/1.Unicycle-header.jpg
   overlay_filter: rgba(0,0,0,0.2)
+  actions:
+    - label: "Project Github"
+      url: "https://github.com/chaerim-kim/Unicycle"
 ---
-
-<!-- date: 2020-12-01 -->
 
 > 🚲 Hire bicycle from main spots of Leeds - view, book, and pay all in one go!
 
