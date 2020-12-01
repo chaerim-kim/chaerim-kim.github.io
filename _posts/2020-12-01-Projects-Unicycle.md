@@ -1,7 +1,7 @@
 ---
 title: "UniCycle - Bike Hire"
 tags: [Projects]
-permalink: /projects/Unicycle
+permalink: /projects/unicycle/
 categories:
   - Projects
 header:
