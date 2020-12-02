@@ -35,8 +35,10 @@ November, 2019
 
 
 ## 🐾 Examples / 사용 예제
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33334078/100367537-b4417f00-3045-11eb-8007-17c8b51410be.gif" />
+</p>
 
-![https://user-images.githubusercontent.com/33334078/100367537-b4417f00-3045-11eb-8007-17c8b51410be.gif](https://user-images.githubusercontent.com/33334078/100367537-b4417f00-3045-11eb-8007-17c8b51410be.gif)
 
 
 ## 📚 Stack / 개발 환경
