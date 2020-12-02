@@ -12,7 +12,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ChaeRim-Kim.io"
+title                    : "Chae Rim Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chae Rim Kim"
@@ -59,9 +59,9 @@ staticman:
 reCaptcha:
   siteKey                :
   secret                 :
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true
+search_full_content      : true
+search_provider          : lunr
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -110,20 +110,20 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: kcl0720@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    # - label: "Website"
+      # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chaerim-kim"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 
