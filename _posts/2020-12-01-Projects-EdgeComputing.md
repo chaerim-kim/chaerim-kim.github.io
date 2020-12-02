@@ -5,7 +5,7 @@ permalink: /projects/edge-computing/
 categories:
   - Projects
 header:
-  overlay_image: /assets/images/3.EC-header2.jpg/
+  overlay_image: /assets/images/3.EC-header2.jpg
   overlay_filter: rgba(0,0,0,0.2)
   actions:
     - label: "Project Github"
