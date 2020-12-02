@@ -32,16 +32,16 @@ October 2020 - November 2020
 
 
 ## 🐾 Examples / 사용 예제
-1. Create User
+1. Create User  
 ![create](https://user-images.githubusercontent.com/33334078/100756706-d87bd200-3430-11eb-83fb-07c77475fb25.gif)
 
-2. List User
+2. List User  
 ![view](https://user-images.githubusercontent.com/33334078/100756811-f47f7380-3430-11eb-872a-51ea46bf1b70.gif)
 
-3. Update User
+3. Update User  
 ![update](https://user-images.githubusercontent.com/33334078/100756806-f34e4680-3430-11eb-865b-414338a54c77.gif)
 
-4. Delete User
+4. Delete User  
 ![delete](https://user-images.githubusercontent.com/33334078/100756787-ee899280-3430-11eb-80d0-3b0bf67f4c64.gif)
 
 
