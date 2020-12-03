@@ -1,9 +1,9 @@
----
----
-
 <!doctype html>
-<html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
 	<head>
+		{% include head.html %}
+		{% include head/custom.html %}
+
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -22,30 +22,24 @@
 				ga('send', 'pageview');
 			</script>
 			<script async src='https://www.google-analytics.com/analytics.js'></script>
-
 		{% endif %}
-		{% include head.html %}
-    {% include head/custom.html %}
 	</head>
 
 
-	  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-	    {% include_cached browser-upgrade.html %}
+	<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+		{% include_cached skip-links.html %}
+		{% include_cached browser-upgrade.html %}
+		{% include_cached masthead.html %}
 
-	    {% include_cached masthead.html %}
-
-
-		<!-- body section -->
-		<div class="content">
+		<div class="initial-content">
 			{{ content }}
 		</div>
 
 		{% if site.search == true %}
-      <div class="search-content">
-        {% include_cached search/search_form.html %}
-      </div>
-    {% endif %}
-
+			<div class="search-content">
+				{% include_cached search/search_form.html %}
+			</div>
+		{% endif %}
 
 	<!-- footer section -->
 	<div id="footer" class="page__footer">
@@ -56,11 +50,8 @@
 	</div>
 
 		{% include scripts.html %}
-	</body>
 
-
-	<!-- scripts -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 	<script type="text/javascript">
 		$('a[href*=\\#]').on('click', function(event){
 			var el = $(this.hash);
@@ -69,5 +60,7 @@
 				$('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
 			}
 		});
-	</script>
+	</script> -->
+
+	</body>
 </html>
