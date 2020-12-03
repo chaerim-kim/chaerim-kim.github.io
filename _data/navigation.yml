@@ -33,10 +33,11 @@ main:
 
   - title: Data Structures and Algorithms
     sublinks:
-      - title: "Interview Preparation"
-        url: /intv-prep/
       - title: "HackerRank Coding Challenges"
         url: /hackerrank/HackerRank/
+      - title: "Interview Preparation"
+        url: /intv-prep/
+
 
   - title: ETC
     sublinks:
@@ -60,10 +61,10 @@ docs:
 
   - title: Data Structures and Algorithms
     children:
-      - title: "Interview Preparation"
-        url: /intv-prep/
       - title: "HackerRank Coding Challenges"
         url: /hackerrank/HackerRank/
+      - title: "Interview Preparation"
+        url: /intv-prep/
 
   - title: CS Papers
     url: /cs-papers/
