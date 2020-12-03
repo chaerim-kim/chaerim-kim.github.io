@@ -124,8 +124,6 @@ GEM
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
-    jekyll-menus (0.6.1)
-      jekyll (>= 3.6, < 5.0)
     jekyll-optional-front-matter (0.3.2)
       jekyll (>= 3.0, < 5.0)
     jekyll-paginate (1.1.0)
@@ -259,10 +257,9 @@ DEPENDENCIES
   github-pages
   jekyll-gist
   jekyll-include-cache
-  jekyll-menus
   jekyll-paginate
+  jekyll-seo-tag
   jekyll-sitemap
-  jemoji
   tzinfo-data
 
 BUNDLED WITH
