@@ -2,6 +2,6 @@
 layout: tags
 taxonomy: Edge Computing
 title: Edge Computing
-permalink: "/edge-computing/"
+permalink: "/tags/edge-computing/"
 author_profile: false
 ---
