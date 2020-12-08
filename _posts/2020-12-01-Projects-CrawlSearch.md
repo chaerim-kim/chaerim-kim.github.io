@@ -67,7 +67,7 @@ Find | It finds a certain query phrase in the inverted index and returns a list 
 
 ## 📚 Stack / 개발 환경
 - Python
-- [Requests Library]((http://docs.python-requests.org/en/master/) - A simple python library to compose HTTP requests.
+- [Requests Library](http://docs.python-requests.org/en/master/) - A simple python library to compose HTTP requests.
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/doc) - A Python library for navigating, searching, and modifying a parse tree out of HTML and XML files.
 
 
