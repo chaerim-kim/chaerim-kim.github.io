@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: tags
 taxonomy: Edge Computing
 title: Edge Computing
 permalink: "/edge-computing/"
