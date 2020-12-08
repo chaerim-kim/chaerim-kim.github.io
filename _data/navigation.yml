@@ -20,8 +20,10 @@ main:
         url: /projects/Convolutional-Neural-Network/
 
 
-  - title: Study
+  - title: Study Notes
     sublinks:
+      - title: Data Structures and Algorithms
+        url: /data-structres-and-algorithms/
       - title: "Distributed Systems"
         url: /distributed-systems/
       - title: "Recommender Systems"
@@ -31,15 +33,8 @@ main:
       - title: "Machine Learning"
         url: /machine-learning/
 
-  - title: Data Structures and Algorithms
-    sublinks:
-      - title: "HackerRank Coding Challenges"
-        url: /hackerrank/HackerRank/
-      - title: "Interview Preparation"
-        url: /intv-prep/
 
-
-  - title: ETC
+  - title: Current Interests
     sublinks:
       - title: CS Papers
         url: /cs-papers/
@@ -56,15 +51,12 @@ main:
 docs:
   - title: Projects
     url: /projects/
-  - title: Study
+    
+  - title: Study Notes
     url: /study/
 
   - title: Data Structures and Algorithms
-    children:
-      - title: "HackerRank Coding Challenges"
-        url: /hackerrank/HackerRank/
-      - title: "Interview Preparation"
-        url: /intv-prep/
+    url: /data-structres-and-algorithms/
 
   - title: CS Papers
     url: /cs-papers/
