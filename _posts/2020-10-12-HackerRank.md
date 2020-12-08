@@ -1,8 +1,8 @@
 ---
 title: "HackerRank Interview Preparation Kit"
-tags: [HackerRank]
+tags: [Data Structures and Algorithms, HackerRank]
 categories:
-  - HackerRank
+  - Data Structures and Algorithms
 ---
 
 - Python implementation will be linked below.
