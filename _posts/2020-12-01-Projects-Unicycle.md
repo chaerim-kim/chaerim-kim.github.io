@@ -1,26 +1,12 @@
----
-title: "UniCycle - Bike Hire"
-tags: [Projects]
-permalink: /projects/unicycle/
-categories:
-  - Projects
-header:
-  overlay_image: /assets/images/1.Unicycle-header.jpg
-  overlay_filter: rgba(0,0,0,0.2)
-  actions:
-    - label: "Project Github"
-      url: "https://github.com/chaerim-kim/Unicycle"
----
+# UniCycle
 
-> 🚲 Hire bicycle from main spots of Leeds - view, book, and pay all in one go!
+🚲 Hire bicycle from main spots of Leeds - view, book, and pay all in one go!
 
-A bicycle hire website to implement customer, employee and administrator functionalities. Responsible for implementing the HTML5, CSS and JavaScript UI as well as the service's backend in Python Flask, SQLAlchemy.
+UniCycle can be accessed [here](http://unicycle-298014.df.r.appspot.com)!
 
-UniCycle can be accessed [here](https://leedsunicycle.pythonanywhere.com/)!
-
-
-## ➰ Project Duration
-November, 2018 - March 2019
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33334078/100700961-0be34000-33e2-11eb-82cd-e4b9c640dfc6.jpg"/>
+</p>
 
 
 ## 🎨 Features / 주요 기능
@@ -41,6 +27,14 @@ November, 2018 - March 2019
 | Register | Profile | Take Payment | Compare Locations  |
 | Login | Logout | View Receipts | View Income |
 | Staff Login |  | Logout | Logout |
+
+
+### Admin features
+- **ID**: admin, **PW**: Password01
+
+### Employee features
+- **ID**: staff, **PW**: Password01
+
 
 
 ## 🐾 Examples / 사용 예제
@@ -77,3 +71,7 @@ November, 2018 - March 2019
 - JavaScript to generate dynamic price calculation
 - CSS/ HTML and JinJa templating of the frontend
 - Implementation of bicycle availability function
+
+## 📜 License
+
+This project is licensed under the terms of the [MIT license.](https://opensource.org/licenses/mit-license.php)
