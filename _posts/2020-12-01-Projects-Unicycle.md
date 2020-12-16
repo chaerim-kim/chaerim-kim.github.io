@@ -1,12 +1,24 @@
-# UniCycle
+---
+ title: "UniCycle - Bike Hire"
+ tags: [Projects]
+ permalink: /projects/unicycle/
+ categories:
+   - Projects
+ header:
+   overlay_image: /assets/images/1.Unicycle-header.jpg
+   overlay_filter: rgba(0,0,0,0.2)
+   actions:
+     - label: "Project Github"
+       url: "https://github.com/chaerim-kim/Unicycle"
+---
 
 🚲 Hire bicycle from main spots of Leeds - view, book, and pay all in one go!
 
 UniCycle can be accessed [here](http://unicycle-298014.df.r.appspot.com)!
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/33334078/100700961-0be34000-33e2-11eb-82cd-e4b9c640dfc6.jpg"/>
-</p>
+
+## ➰ Project Duration
+ November, 2018 - March 2019
 
 
 ## 🎨 Features / 주요 기능
@@ -71,7 +83,3 @@ UniCycle can be accessed [here](http://unicycle-298014.df.r.appspot.com)!
 - JavaScript to generate dynamic price calculation
 - CSS/ HTML and JinJa templating of the frontend
 - Implementation of bicycle availability function
-
-## 📜 License
-
-This project is licensed under the terms of the [MIT license.](https://opensource.org/licenses/mit-license.php)
