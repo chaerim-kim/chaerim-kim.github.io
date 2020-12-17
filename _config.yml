@@ -16,7 +16,7 @@ title                    : "Chae Rim Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chae Rim Kim"
-description              : " "
+description              : "A dev blog for my projects, studies and interests. 개발, 공부, 관심사를 다루는 데브 블로그 입니다 :)"
 url                      : "https://chaerim-kim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
