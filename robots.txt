@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /private*/
+Disallow: /auth
+Disallow: /console
+Disallow: /tools
+Sitemap: http://chaerim-kim.github.io/sitemap.xml
