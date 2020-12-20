@@ -10,8 +10,8 @@ main:
         url: /projects/leeds-inspired/
       - title: "User Management System"
         url: /projects/user-management-sys/
-      - title: "Rate & View Professors"
-        url: /projects/rate-and-view/
+      # - title: "Rate & View Professors"
+        # url: /projects/rate-and-view/
       - title: "OpenGL Leeds"
         url: /projects/OpenGL-leeds/
       - title: "Crawl & Search"
@@ -51,7 +51,7 @@ main:
 docs:
   - title: Projects
     url: /projects/
-    
+
   - title: Study Notes
     url: /study/
 
