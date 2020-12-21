@@ -1,5 +1,5 @@
 ---
-title: "Leeds Inspired Web Search"
+title: "Leeds Inspired Search"
 tags: [Projects]
 permalink: /projects/leeds-inspired/
 categories:
