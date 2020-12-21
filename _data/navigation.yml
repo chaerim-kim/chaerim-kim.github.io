@@ -40,6 +40,8 @@ main:
         url: /cs-papers/
       - title: Daily Tech News
         url: /tech-news/
+      - title: Jekyll Blog
+        url: /jekyll-blog/
 
   - title: "Categories"
     url: /categories/
