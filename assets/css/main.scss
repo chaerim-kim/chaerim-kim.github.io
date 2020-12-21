@@ -52,3 +52,17 @@
   }
 
 }
+
+p > code{
+  color: #f0555a;
+}
+
+// base.css
+body {
+  line-height: 1.65;
+}
+
+// page.css
+.page__content p, .page__content li, .page__content dl {
+  font-size: 0.9em;
+}
