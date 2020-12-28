@@ -3,19 +3,22 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  position: fixed;
+  top: 0;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+  width: 100%;
+  background: white;  // set a color to hide content that may appear below masthead
+  height: $masthead-height;
 
   &__inner-wrap {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    /* devinlife : 메뉴바 패딩 조절 */
     /*padding: 1em;*/
     padding: 0.4em;
     max-width: 100%;
@@ -26,7 +29,6 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
-    /* devinlife : 메뉴바 텍스트 설정 */
     font-size: medium;
     // font-weight: bold;
 
