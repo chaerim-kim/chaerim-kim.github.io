@@ -602,3 +602,14 @@
     padding-left: 3.25rem
   }
 }
+
+.progress-bar {
+    background: linear-gradient(to right, black var(--scroll), transparent 0);
+    background-repeat: no-repeat;
+    width: 100%;
+    position: fixed;
+    top: $masthead-height;
+    left: 0;
+    height: 3px;
+    z-index: 9000;
+}

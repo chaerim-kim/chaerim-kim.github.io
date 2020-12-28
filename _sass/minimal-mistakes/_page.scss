@@ -36,10 +36,12 @@ body {
 }
 
 .page {
+  // @media (min-width: 64em) {
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
+    padding-top: $masthead-height
   }
 
   @include breakpoint($x-large) {
