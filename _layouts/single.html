@@ -30,10 +30,6 @@ layout: default
           {% if page.read_time %}
 
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-            devinlife comments :
-                싱글 페이지(포스트)에 제목 밑에 Updated 시간 표기
-                기존에는 read_time이 표기. read_time -> date 변경
-
             <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }} <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
           {% endif %}
         </header>
@@ -48,7 +44,6 @@ layout: default
                 {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
               {% endif %}
             </nav>
-            <!-- devinlife comment : right-sidebar ads -->
             <nav class="toc-custom">
               {% if page.toc_ads %}
                 {% include GoogleAdSenseSidbar.html %}
@@ -81,9 +76,6 @@ layout: default
 
 
 
-    {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
-      {% include comments.html %}
-    {% endif %}
   </article>
 
 
