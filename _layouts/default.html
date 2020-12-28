@@ -15,6 +15,43 @@
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+
+<!-- progress bar -->
+<style>
+.progress-bar {
+    background: linear-gradient(to right, black var(--scroll), transparent 0);
+    background-repeat: no-repeat;
+    width: 100%;
+    position: fixed;
+/* $masthead-height */
+    top: 50px;
+    left: 0;
+    height: 3px;
+    z-index: 9000;
+}
+</style>
+
+<!-- This is the bar which shows scroll percentage -->
+<div class="progress-bar"></div>
+
+
+<!-- Script used to generate --scroll variable with current scroll percentage value -->
+<script>
+var element = document.documentElement,
+  body = document.body,
+  scrollTop = 'scrollTop',
+  scrollHeight = 'scrollHeight',
+  progress = document.querySelector('.progress-bar'),
+  scroll;
+
+document.addEventListener('scroll', function() {
+  scroll = (element[scrollTop]||body[scrollTop]) / ((element[scrollHeight]||body[scrollHeight]) - element.clientHeight) * 100;
+  progress.style.setProperty('--scroll', scroll + '%');
+});
+</script>
+<!-- end of progress bar -->
+
+
     {% include_cached skip-links.html %}
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
