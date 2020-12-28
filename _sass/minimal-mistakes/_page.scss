@@ -34,6 +34,7 @@ body {
 .initial-content,
 .search-content {
   flex: 1 0 auto;
+  padding-top: $masthead-height;
 }
 
 .page {
@@ -42,18 +43,15 @@ body {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
-    padding-top: $masthead-height;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
     padding-right: $right-sidebar-width;
-    padding-top: $masthead-height;
   }
 
   .page__inner-wrap {
     float: left;
-    padding-top: $masthead-height;
     margin-top: 1em;
     margin-left: 0;
     margin-right: 0;
@@ -180,7 +178,7 @@ body {
   &--overlay {
     position: relative;
     // margin-bottom: 2em;
-    padding: 3em 0em 1em 0em;
+    padding: 7em 0em 1em 0em;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
