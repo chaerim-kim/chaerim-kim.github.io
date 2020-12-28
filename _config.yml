@@ -275,23 +275,23 @@ compress_html:
 
 # Defaults
 defaults:
-  # sidebar
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        title: "Categories"
-        nav: "docs"
+  # # sidebar
+  # - scope:
+  #     path: ""
+  #     type: docs
+  #   values:
+  #     sidebar:
+  #       title: "Categories"
+  #       nav: "docs"
 
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      sidebar:
-        title: "Categories"
-        nav: "docs"
+      # sidebar:
+      #   title: "Categories"
+      #   nav: "docs"
       layout: single
       author_profile: false
       read_time: true
@@ -306,9 +306,9 @@ defaults:
       path: ""
       type: pages
     values:
-      sidebar:
-        title: "Categories"
-        nav: "docs"
+      # sidebar:
+      #   title: "Categories"
+        # nav: "docs"
       layout: single
       author_profile: true
       read_time: true
