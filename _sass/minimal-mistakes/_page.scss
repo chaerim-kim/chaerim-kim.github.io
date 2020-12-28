@@ -14,6 +14,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
+  // when reduced to full so the page is full
   @include breakpoint($x-large) {
     max-width: $max-width;
   }
@@ -41,16 +42,18 @@ body {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
-    padding-top: $masthead-height
+    padding-top: $masthead-height;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
     padding-right: $right-sidebar-width;
+    padding-top: $masthead-height;
   }
 
   .page__inner-wrap {
     float: left;
+    padding-top: $masthead-height;
     margin-top: 1em;
     margin-left: 0;
     margin-right: 0;
