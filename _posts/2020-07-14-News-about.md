@@ -15,3 +15,4 @@ This category includes a summary of daily technology news. It will cover current
 3. [September/ October Technology News](https://chaerim-kim.github.io/daily%20tech%20news/News-SeptOct/)
 4. [November Technology News](https://chaerim-kim.github.io/daily%20tech%20news/News-Nov/)  
 5. [December Technology News](https://chaerim-kim.github.io/daily%20tech%20news/News-Dec/)  
+6. [January Technology News](https://chaerim-kim.github.io/daily%20tech%20news/News-Jan/)  
