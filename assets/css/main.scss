@@ -48,6 +48,7 @@
 .site-title {
 
   img{
+    margin: 0;
     max-width:23%;
   }
 
@@ -66,4 +67,10 @@ body {
 // page.css
 .page__content p, .page__content li, .page__content dl {
   font-size: 0.9em;
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
 }
