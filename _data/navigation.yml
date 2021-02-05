@@ -42,6 +42,8 @@ main:
         url: /tech-news/
       - title: Jekyll Blog
         url: /jekyll-blog/
+      - title: Dissertation Tips
+        url: /diss-tips/
 
   - title: "Categories"
     url: /categories/
