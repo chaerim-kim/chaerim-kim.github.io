@@ -9,12 +9,12 @@ date: 2021-2-01
 **Table of Contents**
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
   - [Carmakers wake up to new pecking order as chip crunch intensifies](#carmakers-wake-up-to-new-pecking-order-as-chip-crunch-intensifies)
+  - [Google, Facebook battle Australia over proposed revenue-sharing law](#google-facebook-battle-australia-over-proposed-revenue-sharing-law)
   - [- **Who:**](#--who)
   - [- **Who:**](#--who-1)
   - [- **Who:**](#--who-2)
   - [- **Who:**](#--who-3)
   - [- **Who:**](#--who-4)
-  - [- **Who:**](#--who-5)
 <!-- TOC END -->
 
 
@@ -37,16 +37,24 @@ date: 2021-2-01
 
 
 
-#### [February 3rd, 2021]
+#### [February 22nd, 2021]
 
-##  
-- **Who:**  
-- **What:**  
-- **When:**  
+##  Google, Facebook battle Australia over proposed revenue-sharing law
+- **Who:**  The Australian Government and the tech giants
+- **What:**  They have been battling over a media law which would make tech giants to pay for news content.
+  - **The law**
+      - The AU news outlets, Facebook and Google can negotiate the payment for content used on their tech sites.
+      - The tech firms are required to  give media outlets notice when they change search algorithms.
+- **When:**  February 2021
 - **Why:**  
-- **How:**  
+  - To watch over how the U.S. tech companies that dominate social media and search engines use news on their websites.
+  - In recent years, for every A$100 spent on online advertising, nearly one-third goes to Google and Facebook.
+- **How:**  The parties can negotiate individually or collectively for a price agreement. if not, an arbitrator will decide whose offer is more reasonable.
 - **So?:**  
-- [Link to the article]()
+  - Australia is planning more regulation of large technology companies in the media industry - to challenge the dominance of Google and Facebook.
+  - **Facebook**: They sent billions of clicks a year to Australian news websites. If this goes ahead they will remove new links from AU users' feeds.
+  - **Google**: They are ready to pay for content, though no media orgs. have agreed to its terms. It will withdraw its main search engine from AU if the laws go ahead.
+- [Link to the article](https://www.reuters.com/article/us-australia-media-facebook-explainer-idUSKBN29X0IE)
 
 
 
