@@ -17,6 +17,9 @@ header:
 This project simulates different edge architectures deployed in a domain such as Autonomous Vehicles and Industry 4.0 to depict the effect of the computational and networking system parameters on the performance results, using [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim).
 
 
+**Examination Fields**: Edge Computing, Augmented Reality, Facial Recognition, EdgeCloudSim, Performance evaluation
+
+
 ## Table of Contents
 - [👁‍🗨 Abstract](#-abstract)  
 - [💡 Findings](#-findings)  
