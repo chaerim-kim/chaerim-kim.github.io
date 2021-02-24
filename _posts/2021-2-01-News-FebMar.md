@@ -10,11 +10,11 @@ date: 2021-2-01
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
   - [Carmakers wake up to new pecking order as chip crunch intensifies](#carmakers-wake-up-to-new-pecking-order-as-chip-crunch-intensifies)
   - [Google, Facebook battle Australia over proposed revenue-sharing law](#google-facebook-battle-australia-over-proposed-revenue-sharing-law)
+  - [Facebook 'refriends' Australia after changes to media laws](#facebook-refriends-australia-after-changes-to-media-laws)
   - [- **Who:**](#--who)
   - [- **Who:**](#--who-1)
   - [- **Who:**](#--who-2)
   - [- **Who:**](#--who-3)
-  - [- **Who:**](#--who-4)
 <!-- TOC END -->
 
 
@@ -47,8 +47,8 @@ date: 2021-2-01
       - The tech firms are required to  give media outlets notice when they change search algorithms.
 - **When:**  February 2021
 - **Why:**  
+  - To rein in the dominant tech platforms and preserve media diversity.
   - To watch over how the U.S. tech companies that dominate social media and search engines use news on their websites.
-  - In recent years, for every A$100 spent on online advertising, nearly one-third goes to Google and Facebook.
 - **How:**  The parties can negotiate individually or collectively for a price agreement. if not, an arbitrator will decide whose offer is more reasonable.
 - **So?:**  
   - Australia is planning more regulation of large technology companies in the media industry - to challenge the dominance of Google and Facebook.
@@ -58,16 +58,19 @@ date: 2021-2-01
 
 
 
-#### [February 3rd, 2021]
+#### [February 24th, 2021]
 
-##  
-- **Who:**  
-- **What:**  
-- **When:**  
-- **Why:**  
+##  Facebook 'refriends' Australia after changes to media laws
+- **Who:**  Facebook and Australian Government
+- **What:**  Facebook will restore Australian news pages after the negotiation with the government regarding a proposed media law that forces tech giants to pay for media content displayed on their platforms.
+- **When:**  23rd of February, 2021
+- **Why:**  Both parties have come to an agreement after Google and Facebook's  unprecedented week-long blackout regarding the new legislation that challenged their dominance in the news content market.
 - **How:**  
-- **So?:**  
-- [Link to the article]()
+  - After talks between Treasurer Josh Frydenberg and Facebook CEO Mark Zuckerberg, a concession deal was struck.    
+  - Changes in the legislation, including that Facebook will retain the ability to decide if news appears on Facebook so that we won’t automatically be subject to a forced negotiation.
+  - That an internet company’s existing media deals must be taken into account before the rules take effect, which will encourage Facebook to strike a series of deals with media companies.
+- **So?:**  The services are restored back to normal & The amended legislation will now go to the upper chamber Senate. Once approved, it will go back to the House of Representatives, where it could pass quickly, most likely this week.
+- [Link to the article](https://www.reuters.com/article/us-australia-media/facebook-refriends-australia-after-changes-to-media-laws-idUSKBN2AN07E)
 
 
 
