@@ -11,10 +11,10 @@ date: 2021-2-01
   - [Carmakers wake up to new pecking order as chip crunch intensifies](#carmakers-wake-up-to-new-pecking-order-as-chip-crunch-intensifies)
   - [Google, Facebook battle Australia over proposed revenue-sharing law](#google-facebook-battle-australia-over-proposed-revenue-sharing-law)
   - [Facebook 'refriends' Australia after changes to media laws](#facebook-refriends-australia-after-changes-to-media-laws)
+  - [AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection](#ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection)
   - [- **Who:**](#--who)
   - [- **Who:**](#--who-1)
   - [- **Who:**](#--who-2)
-  - [- **Who:**](#--who-3)
 <!-- TOC END -->
 
 
@@ -74,16 +74,23 @@ date: 2021-2-01
 
 
 
-#### [January 3rd, 2021]
+#### [March 2nd, 2021]
 
-##  
-- **Who:**  
-- **What:**  
-- **When:**  
-- **Why:**  
-- **How:**  
-- **So?:**  
-- [Link to the article]()
+##  AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection
+
+- **Who:**  Artificial intelligence chip designer **Wave Computing Inc**
+- **What:**  It has emerged from Chapter 11 bankruptcy protection, following an auction of the company and will rebrand the firm as MIPS - Tallwood Venture Capital won the auction with a bid valued at $61 million and has sole ownership of the company.
+- **When:**  1st of March, 2021
+- **Why:**  The emergence follows the approval of the Company's Chapter 11 plan of reorganization on February 10 by the United States Bankruptcy Court for the Northern District of California.
+- **How:**  A wide majority of creditors will receive a meaningful recovery.
+- **So?:**   
+  - The company will be known as MIPS, reflecting the Company's strategic focus on the groundbreaking RISC-based processor architectures.
+  - It will focus on RISC-V based processor architecture, and that they are also developing a new “standards-based 8th generation architecture” as a strong recovery plan for the future.
+- **Further Research**
+  - **Chapter 11 bankruptcy**: A form of bankruptcy that involves reorganisation of a debtor's business affairs, debts and assets.[[1]](https://www.investopedia.com/terms/c/chapter11.asp)
+  - **Chip war between the US and china**: US and China is battling for global dominance in the semiconductor industry. US maintains a clear advantage over China because of its lead in semiconductors, but China wants to seize the  leadership of the global tech sector. The US has been banning and restricting exports to China, in order to limit China from chasing the gap.
+  - **RISC-V architecture**:  A form of chip architecture that offers innovative operational mechanisms. RISC-V is ideal for a wide variety of embedded applications, from IoT applications to computer devices. [[2]](https://www.techrepublic.com/article/risc-v-what-it-is-and-what-benefits-it-can-provide-to-your-organization/)
+- Link to the article: [Reuters](https://www.reuters.com/article/us-wavecomputing-mips/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-idUSKCN2AT3T7), [Cision](https://www.prnewswire.com/news-releases/wave-computing-and-mips-emerge-from-chapter-11-bankruptcy-301237051.html), [EE Times](https://www.eetimes.com/wave-goodbye-hello-mips-as-chapter-11-resolved/)
 
 
 
