@@ -46,6 +46,7 @@ November, 2019
 - Python
 - [Flask](https://flask.palletsprojects.com/) - Micro web framework for Python
 - HTML, CSS - Templating and styling of the web service
+- REST APIs - To fetch relevant information for the service
 
 
 ## ⚒ Installation / 실행 방법
