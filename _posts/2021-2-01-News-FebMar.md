@@ -12,9 +12,9 @@ date: 2021-2-01
   - [Google, Facebook battle Australia over proposed revenue-sharing law](#google-facebook-battle-australia-over-proposed-revenue-sharing-law)
   - [Facebook 'refriends' Australia after changes to media laws](#facebook-refriends-australia-after-changes-to-media-laws)
   - [AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection](#ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection)
+  - [Goldman Sachs restarts cryptocurrency desk amid bitcoin boom](#goldman-sachs-restarts-cryptocurrency-desk-amid-bitcoin-boom)
+  - [- **Industry:**](#--industry)
   - [- **Who:**](#--who)
-  - [- **Who:**](#--who-1)
-  - [- **Who:**](#--who-2)
 <!-- TOC END -->
 
 
@@ -95,29 +95,50 @@ date: 2021-2-01
 
 
 
+#### [March 3rd, 2021]
+
+##  Goldman Sachs restarts cryptocurrency desk amid bitcoin boom
+- **Industry:**   Financial services
+- **Who:**  Goldman Sachs Group Inc
+- **What:**  They have restarted its cryptocurrency trading desk (first setup in 2018) and will begin dealing with bitcoin futures and *non-deliverable forwards* for clients
+- **When:**  Beginning from 8th of March
+- **Why:**  
+  - The bank had originally planned to launch a crypto desk in 2017 but shut the plan in 2018 due to regulatory concerns.
+  - The reboot comes amid **growing interest by institutions in bitcoin**, which has soared more than 470% over the past year.
+  - Despite its high volatility, it is attractive for investors willing to take riskier long or short positions as they hunt for yield in a record-low interest rate environment.
+- **How:**  
+  - It is planning on projects involving blockchain technology and central bank digital currencies.
+  - The bank is also exploring the potential for a bitcoin exchange traded fund and has issued a request for information to explore digital asset custody.
+- **So?:**  
+  - With companies like CME, Tesla and Intercontinental Exchange offering products and services in cryptocurrencies, it has helped to attract more mainstream companies to the sector.
+- **Relevant Research**
+  - **non-deliverable forwards**: 차액결제선물환 Cash settled, usually short-term, forward contract, where two parties agree to, on a date in the future, exchange currencies for the prevailing spot rate. [[1]](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/non-deliverable-forward-ndf/)
+    - 계약 만기에 원금의 상호교환 없이 (non-deliverable) 계약한 선물환율과 만기때 현물 환율의 차액만을 기준 통화로 정산하는 계약 [[2]](https://m.blog.naver.com/PostView.nhn?blogId=happykdic&logNo=221181038692&proxyReferer=https:%2F%2Fwww.google.com%2F)
+    - Cash flow = (NDF rate - Spot rate) * Notional amount
+- **적용할점**
+  - **자소서**: 다양한 회사들이 낮은 이율
+  - **면접 (질문)**: 회사도 크립토커런시나 다른 대체 화폐를 적용할 계획이 있는지?
+- [Link to the article](https://www.reuters.com/article/us-crypto-currency-goldman-sachs-exclusi/exclusive-goldman-sachs-restarts-cryptocurrency-desk-amid-bitcoin-boom-idUSKCN2AT390)
+
+
+
+
 #### [January 3rd, 2021]
 
 ##  
+- **Industry:**
 - **Who:**  
 - **What:**  
 - **When:**  
 - **Why:**  
 - **How:**  
 - **So?:**  
-- [Link to the article]()
-
-
-
-
-#### [January 3rd, 2021]
-
-##  
-- **Who:**  
-- **What:**  
-- **When:**  
-- **Why:**  
-- **How:**  
-- **So?:**  
+- 연관성 (직무, 산업)
+  - 직무:
+  - 산업:
+- 적용할점
+  - 자소서:
+  - 면접 (질문):
 - [Link to the article]()
 
 
