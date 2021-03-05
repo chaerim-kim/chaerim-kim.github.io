@@ -14,10 +14,10 @@ date: 2021-2-01
   - [AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection](#ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection)
   - [Goldman Sachs restarts cryptocurrency desk amid bitcoin boom](#goldman-sachs-restarts-cryptocurrency-desk-amid-bitcoin-boom)
   - [노트북·태블릿, 코로나에 더 잘 나갔다](#노트북태블릿-코로나에-더-잘-나갔다)
+  - [Foxconn flags strong start to year as lockdowns spur electronics demand](#foxconn-flags-strong-start-to-year-as-lockdowns-spur-electronics-demand)
   - [- **Industry:**](#--industry)
   - [- **Industry:**](#--industry-1)
   - [- **Industry:**](#--industry-2)
-  - [- **Industry:**](#--industry-3)
 <!-- TOC END -->
 
 
@@ -146,12 +146,38 @@ date: 2021-2-01
   - 재택근무는 신뢰할 수 있는 보안 환경에서 언제 어디서나 **기업 자원** 에 접근 가능해야 한다. 관련 업체는 **클라우드·가상화·워크플로우 최적화** 등 솔루션을 디바이스와 묶어 서비스 형태로 제공할 필요가 있다.
 
 - **적용할점**
-  - **직무 연관성**: 다양한 교육 OS에 맞는 유연한 플랫폼의 개발 필요
   - **산업 연관성**: 코로나가 오히려 IT가전제품 업계에는 기회
+  - **직무 연관성**: 다양한 교육 OS에 맞는 유연한 플랫폼의 개발 필요
   - **자소서**: 반도체 시장의 수요/공급망 안정방법, 태블릿의 수요를 늘리기 위한 차별화 정책은 무엇이 있는지?
 - [Link to the article](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=417&aid=0000664480)
 
 
+#### [March 5th, 2021]
+
+##  Foxconn flags strong start to year as lockdowns spur electronics demand
+
+- **Industry:**  Electronics
+- **Who:**  Foxconn, Apple's contract manufacturer
+- **What:**  
+  - It expects first-quarter revenue to rise more than **15%** from a year earlier, boosted by strong iPhone demands and robust demand for electronics during lockdowns.
+  - It also saw revenue for **cloud products** including servers and revenue for **computing products** such as laptops to rise about **10%** in the first quarter.
+- **When:**  In 2021
+- **Why:**  Tech-powerhouse Taiwan’s economy is booming due to the pandemic because of global demand for tablets, computers and smartphones - work-from-home needs.
+- **How:**  
+  - They manufacture for big companies where the demand is rising amid pandemic-induced WFH trend.
+  - They also announced several deals on the production of electric vehicles with automakers, which is also a leading trend.
+- **So?:**  
+  - Taiwan's economy will grow at its fastest pace in seven years, seeing gross domestic product (GDP) expanding 4.64% on the jump in exports driven by tech demand.
+  - Taiwan’s January export orders surged 49.3% from a year earlier to $52.72 billion.
+  - Foxconn's chairman said that his company and clients will face only _'limited impact'_ from chip shortage, as most of the customers they serve are large customers, so they all have proper precautionary planning[[1]](https://www.reuters.com/article/us-chip-shortage-foxconn/foxconn-chairman-says-expects-limited-impact-from-chip-shortage-on-clients-idUSKBN2AK067).
+- **적용할점**
+  - **산업 연관성**:  판데믹으로 전자제품, 클라우드 서비스, 반도체의 수요 급증.
+  - **직무 연관성**:  
+  - **자소서**:  클라우드, 전자기기, 전기차 말고 또다른 테크 트렌드는 뭐가 있을까?
+    - Hydrogen Boom 수소, which will outperform battery-powered EVs. 
+- [Link to the article](https://www.reuters.com/article/us-foxconn-outlook/apple-supplier-foxconn-flags-strong-start-to-year-as-lockdowns-spur-electronics-demand-idUSKBN2AW10S)
+
+
 #### [March 4th, 2021]
 
 ##  
@@ -162,12 +188,10 @@ date: 2021-2-01
 - **Why:**  
 - **How:**  
 - **So?:**  
-- 연관성 (직무, 산업)
-  - 직무:
-  - 산업:
-- 적용할점
-  - 자소서:
-  - 면접 (질문):
+- **적용할점**
+  - **직무 연관성**:  
+  - **산업 연관성**:  
+  - **자소서**:
 - [Link to the article]()
 
 
@@ -181,12 +205,10 @@ date: 2021-2-01
 - **Why:**  
 - **How:**  
 - **So?:**  
-- 연관성 (직무, 산업)
-  - 직무:
-  - 산업:
-- 적용할점
-  - 자소서:
-  - 면접 (질문):
+- **적용할점**
+  - **직무 연관성**:  
+  - **산업 연관성**:  
+  - **자소서**:
 - [Link to the article]()
 
 
@@ -200,29 +222,8 @@ date: 2021-2-01
 - **Why:**  
 - **How:**  
 - **So?:**  
-- 연관성 (직무, 산업)
-  - 직무:
-  - 산업:
-- 적용할점
-  - 자소서:
-  - 면접 (질문):
-- [Link to the article]()
-
-
-#### [March 4th, 2021]
-
-##  
-- **Industry:**
-- **Who:**  
-- **What:**  
-- **When:**  
-- **Why:**  
-- **How:**  
-- **So?:**  
-- 연관성 (직무, 산업)
-  - 직무:
-  - 산업:
-- 적용할점
-  - 자소서:
-  - 면접 (질문):
+- **적용할점**
+  - **직무 연관성**:  
+  - **산업 연관성**:  
+  - **자소서**:
 - [Link to the article]()
