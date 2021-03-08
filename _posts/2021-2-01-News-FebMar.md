@@ -15,9 +15,9 @@ date: 2021-2-01
   - [Goldman Sachs restarts cryptocurrency desk amid bitcoin boom](#goldman-sachs-restarts-cryptocurrency-desk-amid-bitcoin-boom)
   - [노트북·태블릿, 코로나에 더 잘 나갔다](#노트북태블릿-코로나에-더-잘-나갔다)
   - [Foxconn flags strong start to year as lockdowns spur electronics demand](#foxconn-flags-strong-start-to-year-as-lockdowns-spur-electronics-demand)
+  - [환경오염 새 '골칫덩어리' 된 비트코인](#환경오염-새-골칫덩어리-된-비트코인)
   - [- **Industry:**](#--industry)
   - [- **Industry:**](#--industry-1)
-  - [- **Industry:**](#--industry-2)
 <!-- TOC END -->
 
 
@@ -174,25 +174,32 @@ date: 2021-2-01
   - **산업 연관성**:  판데믹으로 전자제품, 클라우드 서비스, 반도체의 수요 급증.
   - **직무 연관성**:  
   - **자소서**:  클라우드, 전자기기, 전기차 말고 또다른 테크 트렌드는 뭐가 있을까?
-    - Hydrogen Boom 수소, which will outperform battery-powered EVs. 
+    - Hydrogen Boom 수소, which will outperform battery-powered EVs.
 - [Link to the article](https://www.reuters.com/article/us-foxconn-outlook/apple-supplier-foxconn-flags-strong-start-to-year-as-lockdowns-spur-electronics-demand-idUSKBN2AW10S)
 
 
-#### [March 4th, 2021]
+#### [March 8th, 2021]
 
-##  
-- **Industry:**
-- **Who:**  
-- **What:**  
-- **When:**  
+##  환경오염 새 '골칫덩어리' 된 비트코인
+- **Industry:** 가상화폐, Cryptocurrency
+- **What:**  비트코인 투자가 활성화되면서 관련 활동에 소모되는 에너지가 폭증하고 있기 때문에, 비트코인이 환경 오염의 새 주범으로 지목되고 있다.
+  -  지난 2017년 당시 전체 6.6테라와트시(TWh) 수준이었던 비트코인 채굴 전력 소비량은 지난해 10월 기준 67TWh로 무려 10배 이상 폭등했다.
 - **Why:**  
-- **How:**  
+  - 비트코인은 암호화폐의 일종으로서 '블록체인'이라는 특수한 기술을 통해 유지되는데, 이것은 강력한 컴퓨터 연산 능력을 요구하고, 이 연산 능력을 구현하려면 막대한 전기를 사용해야 한다.
+  - 비트코인 투자자, 혹은 채굴 대행업체들은 그래픽 처리 장치(GPU) 수천개를 배열해 만든 거대한 컴퓨터로 채굴을 하기때문에 막대한 전기 에너지 소모로 이어진다.
+- **How:**  전력 소비는 대부분 '**채굴(mining)**'이라는 활동에서 나온다. 채굴이란 컴퓨터의 연산 능력을 이용, 비트코인의 '블록체인 네트워크'를 유지하고 그 보상으로 신규 비트코인을 누적하는 과정을 의미한다.
+  - 비트코인 채굴장은 값싼 전기를 공급받을 수 있는 개발도상국에 위치하는데, 중국이 세계 비트코인 채굴량의 70%를 차지하면서, 탄소를 많이 배출하는 화석연료의 높은 사용으로 이루어진다.
 - **So?:**  
+  - 최대의 비트코인 채굴장중 하나인 중국 네이멍구 자치구 발전계획위원회는 암호화폐 채굴의 에너지 비효율성 때문에 네이멍구의 비트코인 채굴장을 오는 4월 말까지 전면 폐쇄하겠다는 계획을 발표했다.
+  - 현재 데이터센터 등 전세계 컴퓨터 전력의 단 5분의 1만이 재생 에너지로 작동하고 있다며 "장기적으로 인류가 해결해야 할 문제"라고 강조했습니다.
+  - 비트코인뿐 아니라 온라인 네트워크에 쓰이는 전력원 자체에 대해 재고해야 한다.
 - **적용할점**
-  - **직무 연관성**:  
   - **산업 연관성**:  
-  - **자소서**:
-- [Link to the article]()
+      - 회사가 비트코인을 도입한다면 더 후의 문제인 이런 에너지 소비량은 인지하고 있는지?
+      - 클라이언트가 환경문제로 찾아온다면 이것을 해결할 방향성은 뭐가있는지?
+      - 데이터 센터의 열, 탄소배출 문제는 어떻게 해결할 수 있는지?
+  - **자소서**: 새로운 기술에서 발생하는 sustainability, 지속가능성은 어떻게 address 되고 있는지.
+- [Link to the article](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=277&aid=0004860553)
 
 
 #### [March 4th, 2021]
