@@ -118,12 +118,12 @@ Due to the heterogeneity and distributed nature of the edge servers, they are no
 - α defines the number of processors
 - β defines the number of iterations to be performed
 
-The simulator outputs the results of 5 different iterations, where the ‘ite.log’ files are provided as a human-readable log of the simulation results, and files in folder ite’n’ to be fed to MATLAB for plot generatio
+The simulator outputs the results of 5 different iterations, where the ‘ite.log’ files are provided as a human-readable log of the simulation results, and files in folder ite’n’ to be fed to MATLAB for plot generation
 
 
 
 ## ➰ Project Duration
-November 2019 - May 2020
+October 2019 - May 2020
 
 
 
