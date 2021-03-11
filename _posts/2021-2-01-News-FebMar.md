@@ -16,8 +16,8 @@ date: 2021-2-01
   - [노트북·태블릿, 코로나에 더 잘 나갔다](#노트북태블릿-코로나에-더-잘-나갔다)
   - [Foxconn flags strong start to year as lockdowns spur electronics demand](#foxconn-flags-strong-start-to-year-as-lockdowns-spur-electronics-demand)
   - [환경오염 새 '골칫덩어리' 된 비트코인](#환경오염-새-골칫덩어리-된-비트코인)
+  - [Oracle cloud revenue misses as competition intensifies](#oracle-cloud-revenue-misses-as-competition-intensifies)
   - [- **Industry:**](#--industry)
-  - [- **Industry:**](#--industry-1)
 <!-- TOC END -->
 
 
@@ -198,31 +198,38 @@ date: 2021-2-01
       - 회사가 비트코인을 도입한다면 더 후의 문제인 이런 에너지 소비량은 인지하고 있는지?
       - 클라이언트가 환경문제로 찾아온다면 이것을 해결할 방향성은 뭐가있는지?
       - 데이터 센터의 열, 탄소배출 문제는 어떻게 해결할 수 있는지?
+      - 그럼 비트코인 외에 금 등의 것은 지속가능한가?
+      - 비트코인 마인을 폐하면, 엄청난 양의 그래픽카드가 나올텐데 그건 다 어디로가는지? 그걸로 또 다른 환경문제가 일어나면 어떡할건지?
   - **자소서**: 새로운 기술에서 발생하는 sustainability, 지속가능성은 어떻게 address 되고 있는지.
 - [Link to the article](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=277&aid=0004860553)
 
 
-#### [March 4th, 2021]
+#### [March 11th, 2021]
 
-##  
-- **Industry:**
-- **Who:**  
-- **What:**  
-- **When:**  
+##  Oracle cloud revenue misses as competition intensifies
+
+- **Industry:**  소프트웨어
+- **Who:**  Business software maker Oracle Corporation  
+- **What:**  Company's cloud division reported that their revenue didn't reach analyst's estimates, which was $10.84 billion.
+- **When:**  First quarter of 2021
 - **Why:**  
+  - Due to increased competition from Amazon.com and Microsoft for cloud services.
+  - With the shift to remote work, many businesses were pushed to shift operations to the cloud resulting in an increase in demand for cloud offerings.
 - **How:**  
 - **So?:**  
+  - Oracle's shares fell 6.5% to $67.44 in extended trading on Wednesday.
+  - Oracle has been setting up new data centers to compete with cloud services provided by Amazon and Microsoft.
 - **적용할점**
-  - **직무 연관성**:  
-  - **산업 연관성**:  
-  - **자소서**:
-- [Link to the article]()
+  - **직무 연관성**:  회사에서는 어떤 클라우드 벤더를 쓰는지?
+  - **산업 연관성**:  클라우드 기술의 도입. 어떤 분야에서 어느정도의 extent 로 클라우드가 도입되고 있는지. 엣지는 도입예정이 없는지
+  - **자소서**:  회사에서 쓰는 클라우드 서치하고 경험 만들기
+- [Link to the article](https://www.reuters.com/business/oracle-cloud-revenue-misses-estimates-competition-intensifies-2021-03-10/)
 
 
 #### [March 4th, 2021]
 
 ##  
-- **Industry:**
+- **Industry:**  
 - **Who:**  
 - **What:**  
 - **When:**  
