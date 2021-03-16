@@ -17,7 +17,12 @@ date: 2021-2-01
   - [Foxconn flags strong start to year as lockdowns spur electronics demand](#foxconn-flags-strong-start-to-year-as-lockdowns-spur-electronics-demand)
   - [환경오염 새 '골칫덩어리' 된 비트코인](#환경오염-새-골칫덩어리-된-비트코인)
   - [Oracle cloud revenue misses as competition intensifies](#oracle-cloud-revenue-misses-as-competition-intensifies)
+  - [삼정KPMG, “자동차 시장, 디지털 패러다임 전환 속도”](#삼정kpmg-자동차-시장-디지털-패러다임-전환-속도)
   - [- **Industry:**](#--industry)
+  - [- **Industry:**](#--industry-1)
+  - [- **Industry:**](#--industry-2)
+  - [- **Industry:**](#--industry-3)
+  - [- **Industry:**](#--industry-4)
 <!-- TOC END -->
 
 
@@ -226,6 +231,29 @@ date: 2021-2-01
 - [Link to the article](https://www.reuters.com/business/oracle-cloud-revenue-misses-estimates-competition-intensifies-2021-03-10/)
 
 
+#### [March 16th, 2021]
+
+##  삼정KPMG, “자동차 시장, 디지털 패러다임 전환 속도”
+![image](http://www.ddaily.co.kr/data/photos/cdn/20210311/art_1615858845.jpg)
+
+- **Industry:**  자동차 산업
+- **Who:**  삼정KPMG의 '미래 자동차 혁명과 산업 생태계의 변화' 보고서
+- **What:**  2020년 전세계 자동차 생산량과 판매량은 두자리수 이상 감소한 반면, 친환경차, 자율주행으로의 패러다임 전환은 더욱 빨라지고 있다.
+- **When:**  2021년, 그리고 앞으로의 미래
+- **Why:**  코로나19로 환경보호와 사회적 안전망이 중요해지고, 전세계적으로 환경보호에 대한 인식이 강화되고 경제재건 정책으로 그린뉴딜이 채택되면서 친환경차에 대한 수요가 더욱 늘고 있기 때문이다.
+- **How:**  
+  - **전기차**: 전세계 자동차 판매량이 전년대비 16% 감소하고, 전기차 판매량은 43% (약 324만 대) 성장했다.
+  - **수소차**: 또한, 미국과 유럽 등 주요 시장에서 수소경제 로드맵과 수소전략을 발표하면서 주춤했던 수소차 보급이 활기를 띨 것으로 내다봤다. 트럭 등의 상용차 부문에서 경쟁력을 갖고 성장한다고 예상했다. 수소차 판매량(6664대) 가운데 현대자동차의 점유율은 73.8%(4917대)를 기록했다.
+  - **자율주행 차**:  특히 IT 기업들이 자율주행 기술에 적극적으로 뛰어들면서 기술 진보가 가속화되는 추세다 - 자율주행 기술력의 상위 5개 기업중 3개가 IT기업이다.
+- **So?:**  미래 자동차 혁명으로 자동차 산업이 종합 모빌리티 산업으로 진화하고 있다. 코로나19 이후 자동차 산업 패러다임 변화가 가속화되고 있는 만큼 기업들은 **핵심 기술에 맞춰 발빠르게 밸류체인을 리디자인(Redesign)하고**, 제품, 인프라, 고객경험, 가격체계, 데이터 활용 측면에서 공급자의 역할을 재정립해야 한다”고 조언했다.
+- **적용할점**
+  - **직무/자소서 연관성**:  디지털 혁신을 하고 있는 프로젝트가 있는지, 거기에서 사용되는 핵심 기술/프로덕트 찾아보기. 기업들의 발빠른 디지털 혁신 문화, KPMG 등과같은 컨설팅 업계는 이런 변화를 예측하고, 그것에 대응할 수 있도록 도와주는 매개체
+  - **산업 연관성**:  디지털 혁신, 그중에서도 자동차 시장의 변화가 빠르면서 그에 맞는 기술 - 전기차, 자율주행 등등을 주목해볼 필요. 이미지에 나와있는 혁신 방법들 공부하기
+
+- [Link to the article](http://www.ddaily.co.kr/news/article/?no=210755)
+
+
+
 #### [March 4th, 2021]
 
 ##  
@@ -237,7 +265,70 @@ date: 2021-2-01
 - **How:**  
 - **So?:**  
 - **적용할점**
-  - **직무 연관성**:  
+  - **직무/자소서 연관성**:  
   - **산업 연관성**:  
-  - **자소서**:
+- [Link to the article]()
+-
+
+#### [March 4th, 2021]
+
+##  
+- **Industry:**  
+- **Who:**  
+- **What:**  
+- **When:**  
+- **Why:**  
+- **How:**  
+- **So?:**  
+- **적용할점**
+  - **직무/자소서 연관성**:  
+  - **산업 연관성**:  
+- [Link to the article]()
+
+
+#### [March 4th, 2021]
+
+##  
+- **Industry:**  
+- **Who:**  
+- **What:**  
+- **When:**  
+- **Why:**  
+- **How:**  
+- **So?:**  
+- **적용할점**
+  - **직무/자소서 연관성**:  
+  - **산업 연관성**:  
+- [Link to the article]()
+
+
+#### [March 4th, 2021]
+
+##  
+- **Industry:**  
+- **Who:**  
+- **What:**  
+- **When:**  
+- **Why:**  
+- **How:**  
+- **So?:**  
+- **적용할점**
+  - **직무/자소서 연관성**:  
+  - **산업 연관성**:  
+- [Link to the article]()
+
+
+#### [March 4th, 2021]
+
+##  
+- **Industry:**  
+- **Who:**  
+- **What:**  
+- **When:**  
+- **Why:**  
+- **How:**  
+- **So?:**  
+- **적용할점**
+  - **직무/자소서 연관성**:  
+  - **산업 연관성**:  
 - [Link to the article]()
