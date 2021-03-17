@@ -18,11 +18,11 @@ date: 2021-2-01
   - [환경오염 새 '골칫덩어리' 된 비트코인](#환경오염-새-골칫덩어리-된-비트코인)
   - [Oracle cloud revenue misses as competition intensifies](#oracle-cloud-revenue-misses-as-competition-intensifies)
   - [삼정KPMG, “자동차 시장, 디지털 패러다임 전환 속도”](#삼정kpmg-자동차-시장-디지털-패러다임-전환-속도)
+  - [ByteDance team to develop AI chips as China aims for self-reliance](#bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance)
   - [- **Industry:**](#--industry)
   - [- **Industry:**](#--industry-1)
   - [- **Industry:**](#--industry-2)
   - [- **Industry:**](#--industry-3)
-  - [- **Industry:**](#--industry-4)
 <!-- TOC END -->
 
 
@@ -254,21 +254,28 @@ date: 2021-2-01
 
 
 
-#### [March 4th, 2021]
+#### [March 17th, 2021]
 
-##  
-- **Industry:**  
-- **Who:**  
-- **What:**  
-- **When:**  
+##  ByteDance team to develop AI chips as China aims for self-reliance
+- **Industry:**  Semiconductor
+- **Who:**  TikTok-owner ByteDance
+- **What:**  They are making plans to develop semiconductors, focusing on Arm-based server-side chips.
+- **When:** 2021
 - **Why:**  
+  - Chinese tech giants are putting effort into designing their own chips as China is trying to _reduce its dependence on foreign producers_ such as Qualcomm Inc and Nvidia Corp.
+  - Additionally because of _U.S. sanctions imposed on hardware maker Huawei_ Technologies Co. Ltd - it has prevented Huawei from sourcing components including semiconductors, crippling its smartphone business - so they are trying to be independent.
 - **How:**  
-- **So?:**  
+  - **ByteDance** posted a dozen semiconductor-related job advertisements on its official website.
+  - The company has established a team to explore the development of artificial intelligence chips.
+- **So?:**  Various Chinese companies are also trying to be independent with their chip supply.
+  - **Baidu** has completed a round of financing for its Kunlun AI chip unit, and is considering making the unit a standalone company to commercialise its chip design capabilities.
+  - **Alibaba**: They unveiled an AI chip for its cloud computing products in late 2019.
+  - **SenseTime** started work on developing homegrown AI chips after being added to a U.S. trade list by Washington in 2019.
 - **적용할점**
   - **직무/자소서 연관성**:  
-  - **산업 연관성**:  
-- [Link to the article]()
--
+  - **산업 연관성**:  중국이 반도체 수입을 줄이면 그 영향은?
+- [Link to the article](https://www.reuters.com/article/us-bytedance-chips/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-idUSKBN2B80P7)
+
 
 #### [March 4th, 2021]
 
