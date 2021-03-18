@@ -96,8 +96,8 @@ social:
 analytics:
   provider               : "google"
   google:
-    tracking_id          : G-0JHM0RXNSG
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-0JHM0RXNSG"
+    anonymize_ip         : false # true, false (default)
 
 # Site Author
 author:
