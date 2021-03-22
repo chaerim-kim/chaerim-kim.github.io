@@ -1,8 +1,8 @@
 ---
 title: "University of Leeds Empirical Investigation Tips - 1. Introduction"
-tags: [Dissertation Tips]
+tags: [Dissertation Tips, Other]
 categories:
-  - Dissertation Tips
+  - Other
 date: 2021-1-19
 ---
 
