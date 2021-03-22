@@ -19,10 +19,10 @@ date: 2021-2-01
   - [Oracle cloud revenue misses as competition intensifies](#oracle-cloud-revenue-misses-as-competition-intensifies)
   - [삼정KPMG, “자동차 시장, 디지털 패러다임 전환 속도”](#삼정kpmg-자동차-시장-디지털-패러다임-전환-속도)
   - [ByteDance team to develop AI chips as China aims for self-reliance](#bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance)
+  - [KETI, 유럽 연구기관과 AI 물류 로봇 서비스 공동 개발](#keti-유럽-연구기관과-ai-물류-로봇-서비스-공동-개발)
   - [- **Industry:**](#--industry)
   - [- **Industry:**](#--industry-1)
   - [- **Industry:**](#--industry-2)
-  - [- **Industry:**](#--industry-3)
 <!-- TOC END -->
 
 
@@ -277,20 +277,23 @@ date: 2021-2-01
 - [Link to the article](https://www.reuters.com/article/us-bytedance-chips/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-idUSKBN2B80P7)
 
 
-#### [March 4th, 2021]
+#### [March 22nd, 2021]
 
-##  
+##  KETI, 유럽 연구기관과 AI 물류 로봇 서비스 공동 개발
+
 - **Industry:**  
-- **Who:**  
-- **What:**  
-- **When:**  
-- **Why:**  
-- **How:**  
+- **Who:**  한국전자기술연구원(KETI)
+- **What:**  한국전자기술연구원과 스페인 기업 'Robotnik', 이탈리아 FBK 연구소가 공동으로 물류 현장에 활용되는 인공지능(AI) 로봇 서비스 - **스마트 물류 로봇용 자동 경로 수정 AI 서비스** 개발에 성공했다.
+- **When:**  3월 15일, 2021
+- **Why:**  최근 물류로봇은 자율주행 기능은 물론, 물류창고의 복잡한 작업환경에 능동적으로 대처하고 학습하는 기능이 필요했다. 하지만 고성능 처리장치, 메모리는 비싸고, 클라우드로 데이터를 소통하는 경우에는 실시간 전송이 지연되는 문제가 있었다. -> 엣지컴퓨팅을 사용해 해결
+- **How:**  이 로봇은 사전에 입력된 이동경로에 장애물이 있을경우 이를 수정해 효율적으로 경로를 탐색한다. 경로 수정을 위한 AI의 개발과 함께, 개발된 AI를 클라우드와 로봇을 연계하고, 엣지 컴퓨팅을 통해 분산 처리의 형태로 구현하는게 특징이다.
 - **So?:**  
+  - KETI가 공동개발한 엣지 컴퓨팅 플랫폼은 물류 로봇과 클라우드를 연동해 애플리케이션 배포·설치·제어·운용, 데이터의 분석 학습에 관한 엣지-클라우드 작업 분할 및 공동작업을 통해 이 같은 물류로봇의 성능 한계를 극복했다.
+  - 향후 스마트 오피스, 스마트 팩토리 등 엣지 AI가 필요한 다양한 분야에도 본 기술을 적용할 예정”이라고 말했다.
 - **적용할점**
-  - **직무/자소서 연관성**:  
-  - **산업 연관성**:  
-- [Link to the article]()
+  - **직무/자소서 연관성**:  이러한 엣지 분산을 위해서 가장 중요한 파라미터는 처리속도, 엣지 용량이다. 그래서 지금 자사의 현 로봇서비스는 어떠한 데이터 사이클을 가지고 있는지?
+  - **산업 연관성**:  더많은 분야 - 스마트 오피스, 팩토리 등에도 엣지 AI가 필요하다 - 이 기술이 적용가능한 분야?
+- [Link to the article](https://www.sedaily.com/NewsView/22JTGVSS9T)
 
 
 #### [March 4th, 2021]
