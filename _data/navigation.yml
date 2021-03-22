@@ -2,21 +2,21 @@
 main:
   - title: "Projects"
     sublinks:
-      - title: "Edge Computing"
+      - title: Edge Computing
         url: /projects/edge-computing/
-      - title: "UniCycle"
+      - title: UniCycle
         url: /projects/unicycle/
-      - title: "Leeds Inspired Search"
+      - title: Leeds Inspired Search
         url: /projects/leeds-inspired/
-      - title: "User Management System"
+      - title: User Management System
         url: /projects/user-management-sys/
-      # - title: "Rate & View Professors"
-        # url: /projects/rate-and-view/
-      - title: "OpenGL Leeds"
+      - title: Rate & View Professors
+        url: /projects/rate-and-view/
+      - title: OpenGL Leeds
         url: /projects/OpenGL-leeds/
-      - title: "Crawl & Search"
+      - title: Crawl & Search
         url: /projects/Crawl-and-search/
-      - title: "Convolutional Neural Network"
+      - title: Convolutional Neural Network
         url: /projects/Convolutional-Neural-Network/
 
 
@@ -24,26 +24,26 @@ main:
     sublinks:
       - title: Data Structures and Algorithms
         url: /data-structres-and-algorithms/
-      - title: "Distributed Systems"
+      - title: Distributed Systems
         url: /distributed-systems/
-      - title: "Recommender Systems"
+      - title: Recommender Systems
         url: /recommender-systems/
-      - title: "Secure Computing"
+      - title: Secure Computing
         url: /secure-computing/
-      - title: "Machine Learning"
+      - title: Machine Learning
         url: /machine-learning/
 
 
   - title: Interests
     sublinks:
-      - title: CS Papers
-        url: /cs-papers/
       - title: Daily Tech News
         url: /tech-news/
+      - title: CS Papers
+        url: /cs-papers/
       - title: Jekyll Blog
         url: /jekyll-blog/
-      - title: Dissertation Tips
-        url: /diss-tips/
+      - title: Other
+        url: /other/
 
   - title: "Categories"
     url: /categories/
