@@ -18,19 +18,16 @@ Whenever we see a number, we push to stack and if an operator, pop and perform t
 #### Example 1
 ```
 Input: "3 4 + 2 * 1 +"
-Output: true
+Output: 15
 ```
 
 #### Example 2
 ```
-Input: ["(1,2)", "(3,2)", "(2,12)", "(5,2)"] 
-Output: false
+Input: "3 5 + 7 2 – *"
+Output: 40
 ```
 
 ## Code Implementation
-- There are two rules:
-  - Each child node has exactly one parent
-  - Parent node can only have 2 children
 
 ```python
 def polish_eval(strArr):
@@ -50,6 +47,6 @@ def polish_eval(strArr):
 
 
 ## Explanation
-1. First create and append a separate list for parent and child nodes
-2. Based on the principal of 'Parent node can only have 2 children', this means that if there exists duplicating parent node, it'll be an illegal tree
-3. All the children node should be unique; hence if there exists duplicate child node, return false.
+1. Create a stack
+2. When its a number, append to stack.
+3. If it is an operation, pop and evaluate the statement, then pop back in
