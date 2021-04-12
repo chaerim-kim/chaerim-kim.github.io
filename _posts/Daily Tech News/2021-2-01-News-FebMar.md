@@ -21,8 +21,6 @@ date: 2021-2-01
   - [ByteDance team to develop AI chips as China aims for self-reliance](#bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance)
   - [KETI, 유럽 연구기관과 AI 물류 로봇 서비스 공동 개발](#keti-유럽-연구기관과-ai-물류-로봇-서비스-공동-개발)
   - [인공지능으로 사멸 위기 언어 보존한다](#인공지능으로-사멸-위기-언어-보존한다)
-  - [- **Industry:**](#--industry)
-  - [- **Industry:**](#--industry-1)
 <!-- TOC END -->
 
 
@@ -314,35 +312,3 @@ date: 2021-2-01
   - **직무/자소서 연관성**:  언어데이터, 인공지능이 단순 번역, 언어를 나아가 문화와 지식, 역사의 공백을 채울 수 있다는 점
   - **산업 연관성**:  
 - [Link to the article](http://news.khan.co.kr/kh_news/khan_art_view.html?art_id=201908031619001)
-
-
-#### [March 4th, 2021]
-
-##  
-- **Industry:**  
-- **Who:**  
-- **What:**  
-- **When:**  
-- **Why:**  
-- **How:**  
-- **So?:**  
-- **적용할점**
-  - **직무/자소서 연관성**:  
-  - **산업 연관성**:  
-- [Link to the article]()
-
-
-#### [March 4th, 2021]
-
-##  
-- **Industry:**  
-- **Who:**  
-- **What:**  
-- **When:**  
-- **Why:**  
-- **How:**  
-- **So?:**  
-- **적용할점**
-  - **직무/자소서 연관성**:  
-  - **산업 연관성**:  
-- [Link to the article]()
