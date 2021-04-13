@@ -28,25 +28,33 @@ sidebar: false
 <div class="container">
 	<h2 class="editable" style="text-align: center;">😊 A little bit about me</h2>
 
-	<div id="termynal">
+	<div id="terminal">
+		<div id="bar"></div>
+
+	<div id="screen">
+		<!-- start of the screen -->
+		<p class="command">cat README.md</p>
+		<p class="response">👋🏼 Hi! I focus on creating well-designed and elegant web applications. I am interested in both frontend and backend, and am open to learning new frameworks as I go.</p>
+
+		<p class="command">cat MORE.md</p>
+		<p class="response">👩🏻‍💻 Academically, I have obtained a First-Class Honours degree in BSc Computer Science from the University of Leeds, where I graduated with an exceptional dissertation grade. </p>
+
+		<p class="command">ls skills</p>
+		<p class="response array">
+			<span class="array-element">Python</span>,
+			<span class="array-element">Java</span>,
+			<span class="array-element">Flask & Django </span>,
+			<span class="array-element">HTML/CSS </span>,
+			<span class="array-element">MySQL</span>,
+			<span class="array-element">Git</span>
+		</p>
+
+		<p class="command">
+			<span class="cursor">&nbsp</span>
+		</p>
 	</div>
-	<!-- include and initialise termynal.js -->
-	<script src="termynal.js"></script>
-	<script>
-		var termynal = new Termynal('#termynal', {
-			typeDelay: 40,
-			lineDelay: 700,
-			lineData: [
-				{ type: 'input', prompt: '▲ cat README.md', value: '' },
-				{ value: '👋🏼 Hi! I focus on creating well-designed and elegant web applications. I am interested in both frontend and backend, and am open to learning new frameworks as I go.' },
-				{ type: 'input', prompt: '▲ cat MORE.md', value: '' },
-				{  value: '👩🏻‍💻 Academically, I have obtained a First-Class Honours degree in BSc Computer Science from the University of Leeds, where I graduated with an exceptional dissertation grade.' },
-				{ type: 'input', prompt:'▲ ls skills ', value: '' },
-				// { type: 'progress', progressChar: '·' },
-				{ value: 'Python &nbsp Java &nbsp HTML/CSS &nbsp MySQL &nbsp Flask & Django  &nbsp Git' },
-			]
-		});
-	</script>
+	</div>
+
 
 	<!-- <div class="cli">
 		<img src="/assets/images/terminal.jpg" alt="terminal skills" class="center">
