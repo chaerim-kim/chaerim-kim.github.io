@@ -1,6 +1,9 @@
 ---
-title: "[Binary Tree, Array] Tree Constructor - Python"
-tags: [Data Structures and Algorithms]
+title: "[Coderbyte] Tree Constructor (Python)"
+tags:
+  - Data Structures and Algorithms
+  - Coderbyte
+  - Binary Tree
 categories:
   - Data Structures and Algorithms
 ---
@@ -25,6 +28,13 @@ Output: true
 Input: ["(1,2)", "(3,2)", "(2,12)", "(5,2)"] 
 Output: false
 ```
+
+
+## Explanation
+1. First create and append a separate list for parent and child nodes
+2. Based on the principal of 'Parent node can only have 2 children', this means that if there exists duplicating parent node, it'll be an illegal tree
+3. All the children node should be unique; hence if there exists duplicate child node, return false.
+
 
 ## Code Implementation
 - There are two rules:
@@ -52,9 +62,3 @@ def TreeConstructor(strArr):
 print (TreeConstructor(["(1,2)", "(2,4)", "(5,7)", "(7,2)", "(9,5)"]))      # True
 print (TreeConstructor(["(1,2)", "(3,2)", "(2,12)", "(5,2)"] ))      # False
 ```
-
-
-## Explanation
-1. First create and append a separate list for parent and child nodes
-2. Based on the principal of 'Parent node can only have 2 children', this means that if there exists duplicating parent node, it'll be an illegal tree
-3. All the children node should be unique; hence if there exists duplicate child node, return false.

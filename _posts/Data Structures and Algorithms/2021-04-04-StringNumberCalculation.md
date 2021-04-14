@@ -1,6 +1,9 @@
 ---
-title: "[String] String Number Calculation - convert word to integer"
-tags: [Data Structures and Algorithms]
+title: "[Coderbyte] String Number Calculation - convert word to integer (Python)"
+tags:
+  - Data Structures and Algorithms
+  - Coderbyte
+  - String
 categories:
   - Data Structures and Algorithms
 ---
@@ -22,6 +25,14 @@ Output: negativeonenine
 Input: strParam = "oneminustwozeroplusthreetwo"    # 1-29+32 = 13
 Output: onethree
 ```
+
+
+## Explanation
+1. First replace the string using dictionary
+2. Using eval() calculate the output of the equation
+3. If its a negative number, replace - to negative
+4. Using the dictionary, replace it back to string
+
 
 ## Code Implementation
 
@@ -56,9 +67,3 @@ def stringtoNo(strParam):
 
 print(stringtoNo('oneminustwozeroplusthreetwo'))    #onethree = 13
 ```
-
-## Explanation
-1. First replace the string using dictionary
-2. Using eval() calculate the output of the equation
-3. If its a negative number, replace - to negative
-4. Using the dictionary, replace it back to string

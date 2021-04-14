@@ -1,6 +1,8 @@
 ---
-title: "Binary tree and List - Set Bits of a Binary Tree"
-tags: [Data Structures and Algorithms, Binary Tree, List]
+title: "[Other] Set Bits of a Binary Tree (C)"
+tags:
+  - Data Structures and Algorithms
+  - Binary Tree
 categories:
   - Data Structures and Algorithms
 date: 2020-09-07

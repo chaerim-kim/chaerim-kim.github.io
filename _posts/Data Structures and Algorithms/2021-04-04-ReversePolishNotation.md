@@ -1,6 +1,9 @@
 ---
-title: "[Stack] Reverse Polish Notation - Python"
-tags: [Data Structures and Algorithms]
+title: "[Coderbyte] Reverse Polish Notation (Python)"
+tags:   
+  - Data Structures and Algorithms
+  - Coderbyte
+  - Stack
 categories:
   - Data Structures and Algorithms
 ---
@@ -27,6 +30,13 @@ Input: "3 5 + 7 2 – *"
 Output: 40
 ```
 
+
+## Explanation
+1. Create a stack
+2. When its a number, append to stack.
+3. If it is an operation, pop and evaluate the statement, then pop back in
+
+
 ## Code Implementation
 
 ```python
@@ -44,9 +54,3 @@ def polish_eval(strArr):
             stack.append(int(i))
     return stack[0]
 ```
-
-
-## Explanation
-1. Create a stack
-2. When its a number, append to stack.
-3. If it is an operation, pop and evaluate the statement, then pop back in

@@ -1,6 +1,8 @@
 ---
-title: "Array - Missing Number and Duplicates"
-tags: [Data Structures and Algorithms, Array]
+title: "[Other] Missing Number and Duplicates"
+tags:
+  - Data Structures and Algorithms
+  - Array
 categories:
   - Data Structures and Algorithms
 date: 2020-10-14
