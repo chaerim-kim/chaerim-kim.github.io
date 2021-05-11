@@ -38,8 +38,8 @@ main:
     sublinks:
       - title: Daily Tech News
         url: /tech-news/
-      - title: IT Trends
-        url: /it-trends/
+      - title: CS Papers
+        url: /cs-papers/
       - title: Jekyll Blog
         url: /jekyll-blog/
       - title: Other
