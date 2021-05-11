@@ -1,7 +1,7 @@
 ---
 layout: category
-taxonomy: CS Papers
-title: CS Papers
-permalink: "/cs-papers/"
+taxonomy: IT Trends
+title: IT Trends
+permalink: "/it-trends/"
 author_profile: false
 ---
