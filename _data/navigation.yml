@@ -19,20 +19,23 @@ main:
       - title: Convolutional Neural Network
         url: /projects/Convolutional-Neural-Network/
 
+  - title: Infrastructure
+    sublinks:
+      - title: Information Storage Management (ISM)
+        url: /information-storage-management/
 
   - title: Study Notes
     sublinks:
-      - title: Data Structures and Algorithms
-        url: /data-structres-and-algorithms/
       - title: Distributed Systems
         url: /distributed-systems/
+      - title: Data Structures and Algorithms
+        url: /data-structres-and-algorithms/
+      - title: Machine Learning
+        url: /machine-learning/
       - title: Recommender Systems
         url: /recommender-systems/
       - title: Secure Computing
         url: /secure-computing/
-      - title: Machine Learning
-        url: /machine-learning/
-
 
   - title: Interests
     sublinks:
