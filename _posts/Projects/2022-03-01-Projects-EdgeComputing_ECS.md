@@ -12,10 +12,8 @@ header:
 
 > 👩🏻‍💻 A Final Year Project on Edge Computing that simulates and evaluates different edge architectures
 
-This project simulates different edge architectures deployed in a domain such as Autonomous Vehicles and Industry 4.0 to depict the effect of the computational and networking system parameters on the performance results, using [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim).
 
 [Project Overview Post](https://chaerim-kim.github.io/projects/edge-computing/)
-
 
 
 ## 👁‍🗨 How to invoke MATLAB graphs for EdgeCloudSim

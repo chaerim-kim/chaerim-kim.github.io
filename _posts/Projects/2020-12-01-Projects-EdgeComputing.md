@@ -28,6 +28,7 @@ This project simulates different edge architectures deployed in a domain such as
     - [Snippet of the report](#snippet-of-the-report)
   - [Recommendations](#recommendations)  
 - [Installation / 실행 방법](#installation--실행-방법)
+- [How to generate EdgeCloudSim MATLAB graphs](#how-to-generate-edgecloudsim-matlab-graphs)
 - [💡 Full report](https://github.com/chaerim-kim/EdgeCloudSim/files/5623637/KIM20-FINAL.pdf)
 - [➰ Project Duration](#-project-duration)
 - [📜 License](#-license)
@@ -120,6 +121,10 @@ Due to the heterogeneity and distributed nature of the edge servers, they are no
 
 The simulator outputs the results of 5 different iterations, where the ‘ite.log’ files are provided as a human-readable log of the simulation results, and files in folder ite’n’ to be fed to MATLAB for plot generation
 
+
+
+## How to generate EdgeCloudSim MATLAB graphs
+- https://chaerim-kim.github.io/projects/edge-computing/ECS
 
 
 ## ➰ Project Duration
