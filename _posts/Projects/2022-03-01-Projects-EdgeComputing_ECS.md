@@ -1,7 +1,7 @@
 ---
 title: "[EdgeCloudSim] - How to generate EdgeCloudSim MATLAB graphs"
 tags: [Projects, Edge Computing]
-permalink: /projects/edge-computing/ECS
+permalink: /projects/edge-computing/ecs/
 categories:
   - Projects
 header:

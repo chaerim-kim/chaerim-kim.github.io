@@ -124,7 +124,8 @@ The simulator outputs the results of 5 different iterations, where the ‘ite.lo
 
 
 ## How to generate EdgeCloudSim MATLAB graphs
-- https://chaerim-kim.github.io/projects/edge-computing/ECS
+Refer to my another post.
+[How to generate EdgeCloudSim MATLAB graphs](https://chaerim-kim.github.io/projects/edge-computing/ecs)
 
 
 ## ➰ Project Duration
